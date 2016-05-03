@@ -1,0 +1,42 @@
+xtzj PRAEFATIO.
+
+Euclides 1100 corollarium mutare potuisset in theorema, 1100 modo t
+Si magnitudines compositae (ff) sint proportionales, proportionales erunt
+per conversionem.
+Α E B
+
+Γ Ζ Δ
+
+Sint magnitudines compositae ΑΒ, ΑΕ, ΓΔ, ΓΖ, et sit ut AB ad ΑΕ ita ΓΔ ad
+FZ3 dico per conversionem nt AB ad ΕΒ ita esse ΓΔ ad ΖΔ.
+
+Quoniam enim utAB ad ΑΕ ita ΓΔ est ad ΓΖ, alterne igitur ut AB ad ΓΔ ita.
+cstAE ad ΓΖ( 16, 5); ostensum autem est utAB ad ΓΔ ita esse ΕΒ ad Za( 19. 5 >3
+alterne igitur ut AB ad ΕΒ ita est ΓΔ ad ΖΔ, 1100 est ut AB ad Ass-AE ita est ΓΔ
+ad ΓΔ-ΓΖ ( 16. 5 3 quod est per couversionem. Quod erat demonstrandum.
+
+In textu groeco manuscripti 190, nequaquam agitur de circulorum secto-
+ribus in ultima sexti libri propositione. Manus aliena inter lineas et iu
+margine manuscripti exaravitomnia quaead sectores attinent, et quae adsunt
+in textu graeco omniurn aliorum manuscriptorum et in editionibus Basitiae
+et Oxoniae. Hoc addimentum, quod in meam editionem admittere non de-
+buissem, textui a Theone factum est. Sic loquitur Theon in suis in Almages-
+tum commentariis, p. 50, l. 7, edit. Basiliae‚ anno 1538: « ὅτι δὲ οἱ ἐπ’
+ἴσων κύκλων τεμεῖς πρὶς ἀλλήλους εἰσὶν ὠς αἱ γωνίαι ἐρ’ ὧν βεὲἦκασι δέδεικται ἡμῖν ἐν τῇ
+ἐκθέσει τῶν στοιχείων πρὸς τῴ τέλει τοῦ ἕκτου (sefflica. n Quod autem in [equalibus
+circulis sectores inter se sunt ut anguli isi illis positi, ostensum fuit
+α nobis in editione Elementorum ad finem libri sexti.
+
+1100 Theonis addimentum, quod in subsequentibus nullum habet usum,
+Euclidis festinationi moram ass'ert. In libris praesertim 10, 14 , 15 ,necnon
+in Datis bene multas surperfluitates reperias quarum nullamin textu manu·
+scripto 190.Ob id praecipue Euclidem mirati sunt quod ille ad propositum
+directe tendit, numquam de via declinans sua demonstrandi causa quae ad
+progrediendum nequaquam sunt necessaria. Sed hoc soli manuscripto 190
+convenire potest 3 itaque non absurde conjecerim emendatum Euclidis
+
+ 
+
+(⁴¹) Quatuor magnitudines dicuntur compositae, quando secunda est quaedam fractio primm, ev.
+quarta quiedam fractio tertiae.
+

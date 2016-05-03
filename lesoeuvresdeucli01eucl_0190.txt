@@ -1,0 +1,57 @@
+138
+
+ΑΛΛΩΖ.
+
+Κύκλου γὰρ τοῦ ΑΒΓ εἰλήφθω τι σημεῖὸν {wig
+τό Δ, ἀπὸ δὲ τοῦ Δ πρὸς τὶν ΑΒΓ κύκλου προσ·-
+πιπτὲτωσαν πλείους ἦ Mo ἴσαι εὐθεῖαι, αἱ ΔΑ ,
+ΔΒ, ΔΓ· >xi->m ὅτι τό ληφθὲν σημεῖον ’τὸ Δ κέντρον
+ἐστὶ τοῦ ΑΒΓ κύκλου.
+
+LE 'TROISIEME LIVRE DES ELEMENTS D’EUCLIDE.
+
+ALITER.
+
+Intra enim circulum ΔΒΓ sumatur aliquod
+punctum Δ, a Δ autem in ΑΒΓ circulum cadant
+plures quam duae :equales rectae , insae ΔΑ , ΔΒ,
+ΔΓ; dico sumptum punctum Δ centrum esse
+ipsius ΑΒΓ circuli.
+
+ 
+
+Mt} γάρ, ἀλλ’ εἷ ὃυνατὸν, ἔστω τό Ε, καὶ ἔπι-
+ζευχθεῖσα n‘ ΔΕ δίἦχθω ἐπὶ ταὶ Ζ, H σημεῖα) ἦ
+ΖΗ ἅραῧ δίοἷμετρὲς ἔστι τοῦ ΑΒΓ κύκλου. Erre)
+οὖν κύκλου τοῦ ΑΒΓ ἒπῖ τῆς ΖΗ ὃιαμέτρου
+εἴληπταί τι σημεῖον τὸ Δ, 3 μή ἔστι κέντρον
+τοῦ κόκλου9, με’)ἴστκ μὲν ἔσται ἦ ΔΗ, μείζων
+«1Χὲ ἦμὲν ΔΓ τῆς ΔΒ, ἦ δῖ ΔΒ τῆς ΔΑ. Αλλοὶ καὶ
+ἴση, ἕπερ ἐστὶν ἀδύνατον· οὐκ ἄρα τό E κέντρον
+
+ἐστὶ τοῦ ΑΒΓ κύκλου. Ομοίως δὴ δείξομεν, ὅτι
+
+Non enim, sed si possibile, sit E, et juncta
+ΔΕ producatur in Z, H puncta5 ergo ΖΗ diame-
+ter est ipsius ΑΒΓ circuli. Quoniam igitur circuIi
+ΑΒΓ in ΖΗ diametro sumptum est aiiquod
+punctum Δ , quod non est centrum circuli, ma-
+xima quidem erit ΔΗ , major vero ΔΓ -ipsi
+AB, et ΔΒ ips& ΔΑ. Sed et aequaHs, quod est
+impossibile 3 uon igitur E centrum est ipsius Ant*
+
+circuli. Similiter autem ostendemus, neque aliud
+
+AUTREMENT.
+
+Dans le cercle ΑΒΓ soit pris un point quelconque Δ, et que plus de deux
+droites §gales tombent du point Δ dans le cercle ΑΒΓ, les droites ΔΑ, ΔΒ, ΔΓ;
+je dis que le point Δ est le centre du cerole ΑΒΓ.
+
+Qu'il ne le soit point, mais s⁷il est possible, que ce soit le point ἒς ayant
+joint ΔΕ, prolongeons cette droite vers les points Ζ, Η; la droite ΖΗ sera le
+diameme du cercle ΑΒΓ. Puisque l’on a pris dans le diamae'ure ΖΗ du cercle ΑΒΓ
+un point Δ , qui n’est pas le centre de ce cerole, la droite ΔΗ sera la plus grande,
+la droite ΔΓ plus grande que la droite ΔΒ, et la droite ΔΒ plus grande que la
+droiie ΔΑ (7. 3). Mais elle lui est ἐςειὶε, ce qui est impossible, douc le
+

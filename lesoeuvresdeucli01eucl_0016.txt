@@ -1,0 +1,41 @@
+x PRAEFATIO.
+
+Geometriae non studebat, cunt perinde facere ac si quis graecam latinamve
+linguam in recentioribus operibus graece et latine scriptis discere velit.
+
+Theoremata subsequentia ‚ quae in quolibet Geometriae tractatu adesse
+solent, in Elementis Euclidis desiderantur:
+
+Circulorum circumferentiae inter se sunt ut eorum diametri.
+
+Quilibet circulus aequalis est triangulo rectangulo cujus unum ex lateribus
+angulum rectum continentibus :equale est semi-diametro, alterum autem
+aequale circumferentiae.
+
+Cujuslibet cylindri recti superficies convexa aequalis est rectangulo cujus
+altitudo aequalis est cylindri lateri, cujus autem basis aequalis est circumfe-
+rentiae basis cylindri, vel circulo cnjus semi—diameter media proportionalis
+est inter latus cylindri et diametrum basis cylindri.
+
+Cujuslibct coni recti, excepta basi a superficies convexa aequalis est trian-
+gulo reetangulo cujus unum laterum angulum rectum continentium aequale
+est coni lateri, alterum vero aequale circumferentiae basis coni, vel circulo
+cujus semi—diameter media proportionalis est inter coni latus et semi-diame-
+trum circuli qui coni est basis.
+
+Superfieies convexae cylindrorum rectorum et similium, et etiam cono-
+rum rectorum et similium, sunt inter se ut diametri basium eorumdem
+cylindrorum et conornm.
+
+Cujuslibet sphaerae superficies aequalis est quatuor maximis ej iisdem
+sphaerae circulis, vel superficiei coni-exre cylindri circumscripti.
+Sphzerarunt superficies inter se sunt ut quadrata earum diametrorum.
+
+Quaelibet sphaera aequalis est duabus tertiis partibus cylindri circumscripti,
+
+Nonnulli credidere haec theoremata ex Euclidis Elementis evanuisse tem-
+porum inclementia3 sed salso. Haec enim theoremata quae demonstrari non
+possunt nisi ope quatuor primorum postulatorum in initio primi libri de
+§plicet-d et Cylindro positorum, demonstrari non potuerunt ab Euclide,
+qui baec Archimedis postulata non admiserat.
+

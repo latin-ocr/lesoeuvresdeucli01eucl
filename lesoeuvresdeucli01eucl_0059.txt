@@ -1,0 +1,77 @@
+LE PREMIER LIVRE DES ELEMENTS D’EUCL1DE. 7
+
+ΠΡΟΤΑΣΙΣ ά.
+
+En) τῖῐς δοθείσης εὐθείας πεπερασμένης τρί-
+’)ωνον ἶο-ἑπλευρον πέτῆο-ασθαι.
+
+ΕΚΘΕΣῙΣ
+ραν-μένῃ 2‘1 AB.
+
+ΠΡΟΣΔῙΟΡῙΣΜΟΣ 3.
+
+εὐθείας πεπερασμένης ⁴ τρί’)ωνον ἰσόπλευρον συ-
+
+¹. Εστω ἦ δὀθεῖσα εὗθεῖαῖ πεπε-
+Ae? δῖν ἐπὶ τΞῗς ΑΒ
+
+στήσασθαι.
+
+ΚΑΤΑΣΚΙΞΥΗ ⁵. Κέντρῳ μὲν τῷ A, δίειπῆματι
+δὲ τῷ ΑΒ, κύκλος γεγράφθω ὃ ΒΓΔ· καὶ πάλιν,
+κέντρῳ μὲν τῷ Β , θιαστῆματι δὲ τῷ ΒΑ , κύκλος
+γεγράφθω ὃ ArE· καὶ ἀπὸ τεῦ Γ σιτμείου, καθ’ ὃ
+τέμνουσιν ἀλλήλους οἱ κύκλοι, ἐπὶ τὲ Α, Β
+
+σημεῖα ἐπεζεύχθωσαν εὖθεῖαιι αἱ ΓΑ, ΓΒ.
+
+PROPOSITIO Ι.
+
+SUPER datam rectam terminatam, triangu-
+lum aequilaterum constituere.
+
+Expos1T1 ο. Sit data recta terminata ΑΒ.
+
+DETEnmxxAmo. Oportet igitur super AB
+rectam terminatam triangulum aequilaterum
+constituere.
+
+Coxsmucmo. Centro quidem Α, inter-
+vallo autem ΑΒ , circulus describatur ΒΓΔ ; et
+rursus , centro quidem B ‚ intervallo autem BA ,
+circulus describatur AFE3 et ab Γ puncto, in
+quo sese secant circuli, ad A ‚ B puncta adjun-
+
+gantur κτίζε ΓΑ , ΓΒ.
+
+ 
+
+ΑΠΟΔΠΞῘΣ ⁶. Ka} ἐπεὶ τὲ A 52³·u22702wae'1vfev
+ἔστ) τοῦ ΒΓΔ κύκλευ, ἴτνι ἐστὶν ἦ ΑΓ τῇ ΑΒ·
+πάλιν, ἐπεὶ τὲ Β carpeia? κέντρον ἐστὶ τοῦ ΑΓΕ
+
+κύκλου, Tru ἐστὶν 1‘1 EI* τῖῐ ΒΑ. Εὸείχθῆ ὁΝε καὶ ἦ
+
+Dmxossrnm-xo. Et quoniam A punctum
+
+centrum est ΒΓΔ circuli, aequalis est AF ipsi
+AB3 rursus, quoniam Β punctum centrum est
+
+ΑΓΕ circuli, :equalis est BF ipsi ΒΑ. Ostensa
+
+PROPOSITION PREMlERE.
+
+Suu une droite donmie et fiuie, construire un triangle efiqxxilattiral.
+
+Exposmomv. Soit AB une droite donnffie et finie-
+
+DETEnmlNATmN. ll faut construire sur la droite finie AB un triangle §SquilatdraL
+
+Comsmcenoxz. Du centre A et de l'intervalle ΑΒ, (ἰέςτίνοῃε la circonfiirence BR>
+(dem. 5); etde plus, du centre Β etde l'intervalle ΒΑ , (Ιὲετίνοῃε la circensi‘rcncc
+Arfi; et du point r, οὺ les circonffirences se coupent mutuellement, conduisons
+aux points Α, Β les droites ΓΑ , ΓΒ ( dem. ι ).
+
+Dssmosssnm‘rlox. Car, puisque le point A est le centre du cercle ΒΓΔ , 121
+droite Ar est &gale ἒι la droite ΑΒ (dc-f. 15>; dc plus , puisque le point B est le
+

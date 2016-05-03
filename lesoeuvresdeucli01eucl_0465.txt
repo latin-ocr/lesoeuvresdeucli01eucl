@@ -1,0 +1,72 @@
+LE SEPTIEME LIVRE DES ELEMENTS D’EUCLIDE.
+
+ΠΡΟΤΑΣῙΣ ί.
+
+Edu ἀριθμὸς ἀριθμοῦ μέρη ἶ), καὶ ’ἔτερος ἑτέ-
+ρου τοὶ αὐτοὶ μέρη· καὶ ἐναλλὰξ ἂ μέρη ἐστὶν ὅ
+πρῶτος τοῦ τρίτου ἰ) μέρος, τοὶ αὐτοὶ μέρη ’ἔσται
+καὶ ὃ δέότερος ’τοῦ τετάρτου ἢ τὸ αὖα-δ’ μέρος.
+
+Αριθμός ’γάρ ὅ ΑΒ ἀριθμοῦ τοῦ Γ μέρη ἔστω,
+καὶ ἒτὲρος ὁ ΔΕ ἑτέρου τοῦ Ζ τοὶ αὐτοὶ μέρη,
+ἔστω δῖ ὅ ΑΒ τοῦ ΔΕ ἔλοίσσωνῖ· λέᾳω καὶ ἔναλ-
+λέιξ οἳ μέρη ἔστὶν ὅ ΑΒ τοῦ ΔΕ ἦ μέρος, τοὶ
+αὐτοὶ μέρη ἐστὶ καὶ ὃ Γ τοῦ Ζ ἧτό casm-0¹3 μέρος.
+
+ΑΗΒ
+
+Γ
+Δ Θ
+
+ 
+
+Ζ
+
+Επεὶ γὰρ ἂμέρκ ἐστὶν ὁ ΑΒ τοῦ Γ, τὰ αὐτοὶ
+μέρη ἐστὶ καὶ ὁ ΔΕ τοῦ Ζ· Zea ἄρα ἐστὶν ἐν
+τῷ ΑΒ μέρη τοῦ Γ, τοο-αὗται καὶ ἓν τῷ ΔΕ
+μέρη τοῦ Ζ. Διῃρήσθω ὁ μὲν ΑΒ εἷς ταὶ τοῦ Γ
+μέρη ταὶ ΑΗ, HB, ὅ δῖ ΔΕ εἷς τοὶ τοῦ Ζ μέρη
+
+τά. ΔΘ, ΘΕ· ’ἔσται δῖι ἴσον τὸ πλῆθος τῶν ΑΗ,
+
+405
+
+PROPOSITIO X.
+
+Si numerus numeri partes est , et alter alte-
+rius caedem partes3 et alterne quae parles est
+primus tertii vel pars ‚ eaedem partes erit
+ct secundus quarti vel eadem pars.
+
+Numerus enim AB numeri Γ parles sit, et
+alter ΔΕ alteriusz eaedem partes ‚ sit autem AB
+ipso ΔΕ minor; dico et alterne quse partes est
+AB ipsius ΔΕ vel pars, easdem partes esse et
+
+Γ ipsius Ζ vel eamdem partem.
+
+ 
+
+Quoniam enim quae partes est ΑΒ ipsius r,
+eaedem parles est et ΔΕ ipsius Ζ, quot igitur
+sunt in ΑΒ partes ipsius Γ , tot sunt et in ΔΕ
+partes ipsius Z. Dividatur AB quidem in par·
+tes ΛΗ , HB ipsius Γ , ipse vero ΔΕ in partes
+ΔΘ , ΘΕ ipsius Ζ, erit utique aequalis multi-
+
+PROPOSITION X.
+
+Si un nombre est les m&mes parties d'un nombre, qu’un autre l'est d’un
+autre, le premier sera aussi, par permutation‚ les msemes parties ou la
+ωὲῐηε partie du ῑΓοίεἰὲωθ, que le second l’est du quatrie‘ssne.
+
+Que le nombre ΑΒ soit les me⁴m1es parties du nombre' r, qu'un autre nombre
+ΔΕ l’est d'un autre nombre Ζ, etque AB soit plus petit que ΔΕ; je dis que, par
+permutatim, AB est les m&mes parties ou la ωέτωε partie de ΔΕ, que r l’estde z,
+
+Puisque ΑΒ est les memes parties de r, que ΔΕ l‘est de Z, il y a dans AB
+autaut de parties de r, qu’il y a dans ΔΕ de parties de z. Divisons AB en parties
+de Γ, etque ces parties soient ΑΗ, ΗΒ,- divisons aussi ΔΕ en parties de Z, et
+que ces parties soient ΔΘ, ΘΕ, le nombre des parties ΑΗ, HB sera &gal
+

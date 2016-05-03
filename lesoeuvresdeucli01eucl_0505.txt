@@ -1,0 +1,75 @@
+LE SEPT1EME LIVRE DES ELEMENTS D'EUCLIDE. 445
+
+0 A} E τὸν H μετρεῖ’ καὶ ὅ Γ ἄρα τᾶν Δ μετρεῖ, ὁ
+μείζων τᾶν ἐλάσσονα ‚ ἕπερ ἐστὶν ἀθάνατον· οὐκ
+ἄρα, οἵ Α, Β μετρήσουσί τινα ἀριθμὸν ἐλάσσονα
+τοῦ Γ· o‘ Γ ἄρα ἐλάχιστος ὢν ὑπὸ τῶν Α , B με·
+
+τρεῒται. Οπερ ἐῐδχει θεῖξοιι.
+ΠΡΟΤΑΣῙΣ λζ’,
+
+Εοὶν δύο ἀριθμοὶ ἆρτθμᾶν τινα μετρῶσι , καὶ ὃ
+ἐλάχιστος ὑπ’ αὐτῶν μετρούμενος τὸν cath-31* με·
+τρύσει.
+
+Δύο ᾳοὶρ ἀριθμοὶ οἶ A, B ἀριθμόν τινιι τὶν ΓΔ
+μετρείτωσαν, ἐλάχιστον 3⁸& τὸν E· λέῖω ’ἐτι καὶ
+
+ὅ E τόν ΓΔ μετρεῖ.
+
+Α
+Γ Ζ
+E
+
+ 
+
+Εἴ γάρ οὗ μετρεῗὸ E τὸν ΓΔ, ὅ Ε τὸν ΖΔ με·
+τρῶν λειπέτω ἔαυτσῢ ἐλάσσονα τὸν ΓΖ. Ka} ἐπεὶ
+οἶ Α , Β τὸν Ε μετροῦσιν, ὅ δὲ E τὸν ΔΖ μετρεῖ·
+
+καὶ οἱ Α, Β ἄρα, τὶν ΔΖ μετροῦσιῐ. Μετροῧσι δὲ
+
+igitur ipsum Δ ιυεῑίωι· , major minorem, quod
+est impossibile3 nou igitur A , B metientur ali-
+quem numcrum minorem ipso Γ 3 ipsc Γ igitur
+minimus existens ab A, Β mensuratur. Quod
+
+oportebat ostendere.
+PROPOSITIO XXXVII.
+
+Si duo numeri numerum aliquem moliantur ‚
+et minimus ab illis mensuratus cumdem nlen-
+
+su rabit.
+
+Duo enim numeri A , Β numerum aliquem ΓΔ
+metiantur , minimum autem ipsum E 3 dico ct Ε
+
+ipsum ΓΔ metiri.
+
+Β
+
+ 
+
+Si enim non metitur E ipsum ΓΔ, E metiens
+ΖΔ relinquat se ipso minorcm ΓΖ. Et quoniam
+Α , Β ipsum E metiuntur , ipse autem E ipsum
+
+ΔΖ metitum et A, B igitur ipsum ΔΖ metiun-
+
+donc r mesure Δ( def. 20. 7), le plus grand le plus petit, ce qui est impossible3
+donc les nombres A, Β ne mesurent pas quelque nombre plns petit que r,· donc
+r est le plus petit nombre qui soit mesure par A, B. Ce qu‘il fallait de'montrer.
+
+PROPOSITION XXXVII.
+
+Si deux nombres mesureut quelque nombre ‚ le plus petit qu'ils mesurent me-
+
+surera ce meme nombre.
+
+Quo les deux nombres A, Β mesurent quelque nombre ΓΔ , et que E soit le plus
+petit nombre qu'ils mesurcnt ; je dis que E mesure ΓΔ,
+
+Car si E ne mesure pas ΓΔ , que Ε mesurant ΖΔ laisse rz plus petit quc lui-
+meme. Puisquc les nombres Α, Β mesureut E ‚ que Ε mesure ΔΖ , les nombres
+

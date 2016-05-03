@@ -1,0 +1,44 @@
+430 LE SEPTn'zME L1VRE DES ELEMENTS D'EUCLIDE.
+
+ΠΡΟΤΑΣῙΣ κζ. Δ PROPOSITIO XXVII.
+
+Εαν δῖἷο ἇριθμο ι ττρωτω πμ ς im: bouq ωσιι, Si duo numeri primi inter sc sunt , ipse ex
+ο ἔκ τιν’ ἔ ος awa· 9 εἰομςιε ,ς πρὸς τὲν >mr-521 uno ipsorum sactus ad reliquum primus erit.
+πρωτο ς Errat.
+
+Εστωσαν δὶῖο ἀριθμοὶ πρῶτοι πρὶς ἀλλήλους Sint duo numeri primi inter se A, B, et A
+οἷ Α, Β , καὶ ὃ Α {dordr mmmmmdmg τὸν r se ipsum multiplicans ipsum Γ faciat5 dico Γ, Β
+
+ποιείτω· λέγω ’ότι οἱ Ι· , Β πρῶτοι πρὸς ἀλλήλους primos inter se csse.
+
+ 
+
+ezri.
+4-
+E.-
+Γ
+A..
+Κὲίφὸω 73? τῷ· Α ἴσος 5 A· Καὶι ἐπεὶ οἱ Α ‚ Β Ponatur euim ipsi A :equam> A. Et quoniam
+
+πρῶτοι πρὲς ἀλλήλους εἰσὶν , ἴσος δῖ Ξ Α τῷ Δ· Α ‚ Β primi iuter se sunt ‚ :equalis autem Α ipsi
+κει) οἱ Δ, Β ἄρα πρᾶτα] πρὶς ἀλλήλους εἰσ-ἰν· Λ; et Δ, Β igitur primi inter sc sunt5 uterque
+ἑκάτερος εἶρα τῶν Δ, A πρὸς τὸν Β πρῶτος ἐστί· igitur ipsorum Δ , A ad B primus est; et ipse
+καὶ ὃ ἔν. τῶν Δ , A ἔρα ’γενόμενος πρὸς τᾶν Β CK Δ,Α igitur sactus ad ipsum Β primus erit.Ipse
+πρῶτίς ἔσται. O δὲ ἐκ τῶν Α, Δ 9ενὲμειός ἄριθ- autem ex A , Δ sactus numerus est ΓΞ iP⁵i Γ,
+με ς ἔσται ὃ Γ· εἱ Γ, Β α’ρεε πρῶτοι πρὲς aboni- Β igitur primi inter se suut. Quod oportebat
+λους εἷο-ἰν. One :ef ’ἔθει ὅειξαι. ostendere.
+
+PROPOSITION XXVII.
+
+Si deux nombres sont premiers entr‘eux ‚ le quarrc'ae de l'un d’eux est premier
+avec raum—e.
+
+Que les deux nombres A , Β soient premiers entr'eux ‚ et que A multiplie'e par
+lui-meme produise Γ ; je dis que r, Β sont premiers emr’eux.
+
+Que Δ soit &gal ὲι A. Puisque A ‚ Β sont premiers entr’eux, et que A est eiga] ὲι
+Δ , les nombres Δ , Β sont premiers entr'eux ;d0nc chacun des nombres Δ , Α est
+premIer avec Β ; done le produit de Δ par A sera premier avec Β (26. 7). Mais
+le produit de Α par Δ est ι· 5 douc les nombres r, Β sont premIers entr'eux. Ce
+qu'il sallait dtssmomoer.
+

@@ -1,0 +1,71 @@
+LE SEPTOEME LIVRE Des ELEMENTS D‘EUCLIDE 401
+
+ΠΡΟΤΑΣΙΣ 25.
+
+Εᾶν ἀριθμές ἀριθμοῦ μέρη ἦ, οἷπερ ἀφαιρε-
+θεὶς ἀφαιρεθέντος· καὶ ὁ λοιπὸς τοῦ λοιποῦ τοὶ
+αὐτοὶ μέρη ἔσται, οἵπερ ὅ ἕλος τοῦ ὅλου.
+
+Αριθμός ’γὰρ ὁ ΑΒ ἀριθμοῦ τοῦ ΓΔ μέρη ἔστω,
+ἅπερ ἀφαιρεθεὶς ὃ ΑΕ ἀφαιρεθέντος τοῦ ΓΖ·
+λέγω ὅτι καὶ λοιτί”ὂς’2 ὁ ΕΒ λοιποῦ τοῦ ΖΔ ταὶ
+
+’ x r ² x σ ‘l e ἕ ω
+αντα, μερκ εστιν, αττερ ολος ο ΑΒ ολου του ΓΔ.
+
+Λ
+Γ
+Η M—l(
+Κείσθω 23⁶? τῷ ΑΒ ἴσος ὃ ΗΘ· οἳ ἄρα με’ρκ ἐστὶν
+ὅ ΗΘ τοῦ ΓΔ, τοὶ αὐτοὶ μέρη ἐστὶ καὶ ὃ ΑΕ τοῦ
+ΓΖ. Διῃρήσθω ὃ μὲν ΗΘ εἰς ταὶ τοῦ ΓΔ μέρη τοὶ
+HK, ΚΘ, ὅδὲ ΑΕ εἷς τοὶ τοῦ ΓΖ μέρη τοὶ ΑΛ, ΛΕ·
+’ἔσται db} ἴσον τὸ πλῆθος τῶν ΗΚ, ΚΘ τῷ ’πλήθει
+’τῶν ΑΛ, ΛΕ. Καὶ ἐπεὶ ὃ μέρος ἐστὶν ὂ ΗΚ «τοῦ ΓΔ,
+τὸ nul-ro* μέρος ἐστὶ καὶ ὅ ΑΛ τοῦ ΓΖ· μείζων δὲ ὃ
+ΓΔ τοῦ ΓΖ· μείζων ἄρα καὶ ὅ ΗΚ τοῦ ΑΛ. Κείσθω
+τῷ ΑΛ ἴσοςό ΗΜ· ὃ ἄρα μέρος ἐστὶν ὁ ΗΚ τοῦ ΓΔ,
+
+PROPOSITIO VIII.
+
+Si numerus numeri partes est, quae ablatus
+ablati; et reliquus reliqui eaedem partes erit ‚
+quae totus totins.
+
+Numerus enim ΑΒ numeri ΓΔ partes sit,
+quae ablatus ΑΕ ablati FZ; dico et reliquum
+ΕΒ reliqui ΖΔ easdem partes esse, quae totus
+AB lolius ΓΔ.
+
+ 
+
+Ponatur enim ipsi AB aeqnaiis HO3 quae
+igitur partes est ΗΘ ipsius ΓΔ, eaedem paries
+est ct ΑΕ ipsius ΓΖ. Dividatur ΗΘ quidem in
+ipsius ΓΔ partes HK, ΚΘ, ipse vcro ΑΕ iu
+ipsius ΓΖ partes ΑΛ , ΛΕ) erit igitur :equalis
+multitudo ΗΚ, , ΚΘ ipsi multitudini ΑΛ ‚ ΛΕ.
+Et quoniam (111ae pars est HK ipsius ΓΔ, ea-
+dem pars est et ΑΛ ipsius rz; major antem
+
+ΓΔ ipso rz; major igitur ct HK ipso ΑΛ. Ρο-
+
+PROPOSITION V111.
+
+Si un nombre est les memes parties d’un nombre, qne le nombre re-
+tranche l’est du nombre retranche , le nombre restant sera aussi les memes parties
+du nombre restant, que le tout l’est du tout.
+
+Que le nombre ΑΒ soit les memes parties du nombre ΓΔ, qne le nombre
+retranche ΑΕ l’est du nombre retranche rz; je dis qne le nombre restant ΕΒ
+est les memes parties du nombre restant ΖΔ, que le tout ΑΒ l'est du tout ΓΔ.
+
+Faisons ΗΘ egal ἐι ΑΒ,· le nombre ΗΘ sera les memes parties de ΓΔ, qne ΑΕ
+Ροεῐ de ΓΖ. Divisons ΗΘ en parties de ΓΔ, et que ces parties soient HK, lxm-33
+divisons ΔΕ en parties de ΓΖ, et que ces parties soient ΑΛ, ΛΕ; le nombre
+des parties HK, ΚΘ sera egal an nombre des parties ΑΛ, ΛΕ. Et puisque
+ΗΚ est la meme partie (le m, qne ΑΛ l'est de ΓΖ, et qne ΓΔ est plns grand qne
+ΓΖ, ΗΚ est plus grand que AA. Faisons HM e'gal ὲ AA; HK sera la meme partie
+
+51
+

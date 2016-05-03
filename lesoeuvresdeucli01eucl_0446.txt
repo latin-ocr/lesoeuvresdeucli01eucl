@@ -1,0 +1,59 @@
+386 LE SEPTI‘EME LIVRE DEs ELEMENTS D⁷EUCL1DE.
+
+δῖ καὶ ἕλον τὸν ΑΒ· κα) λοιπὸν ἆραι τὸν ΑΖ
+μετρήσειῖῑ. O δὲ ΑΖ τέν ΔΗ μετρεῖ’” καὶ ὃ Ε ἆραι
+τὸν ΔΗ μετρήσει. Μετρεῖ δὲ καὶ ’ὅλον τὸν ΓΔ·
+καὶ λοιπὸν ἄρα τὸν ΓΗ μετριίσειῧ. O δῖ ΓΗ τὸν
+
+ΖΘ μετρεῖ· καὶ ὃ E Εἶρα τὶν ΖΘ μετρία-ωδ. Με-
+
+ 
+
+τρεῗ δὲ καὶ ’ὅλον τὸν ΖΑ· καὶ ,λοιπὴν ἄρα τὴν
+ΑΘ ,uova'd‘a μετρήσει, ἀριθμός ὧν, ὅπερ ἐστὶν
+ἀδύνατον· οὐκ ἄρα τεὸς ΑΒ, ΓΔ ἀριθμεὸς με-
+τρήσει τις ἇριθμάς· οἱ ΑΒ, ΓΔ ἆρα πρῶτοι πρός
+ἀλλήλους εἰσίν. Οττερ ’έὸει δέἳξαι.
+
+ΠΡΟΤΑΣΙΣ β’.
+
+Δύο ἀριθμεῖν ὃοθὲντων μῆ πρώτων πρὶς ἀλλ’ὅ-
+
+λους, τὸ μί’)ιστον αὗτιῖν κοινὸν μέτρον εὖρεῖἐυ
+
+metitur. Metitur autem et totum AB5 et reli-
+quum igitur AZ metietur. Ipse autem ΑΖ ip-
+sum AH metitum et Ε igitur ipsum AH metietur.
+Metitur autem et totum I'A3 et reliquum igitur
+
+ΓΗ metietur. Ipse autem ΓΗ ipsum ΖΘ metum-3
+
+et E igitur ipsum ΖΘ metietur. Metitur nutem
+et totum ZA3 et reliquam igitur ΛΘ unitatem
+metietur, numerus existens, quod est impossi-
+bile; non igitur AB, ΓΔ numeros metietur
+aliquis numerus3 ipsi AB, ΓΔ igitur primi
+
+inter se sunt. Quod oportebat ostendere.
+
+PROPOSITIO 11.
+
+Duobus numeris datis non primis inter se,
+
+maximam eorum communem mensuram in-
+venire.
+
+il mesure AB tout entier3 donc il mesurera le reste ΑΖ. Mais ΑΖ mesure AH3
+donc E mesurera ΔΗ. Mais il mesure ΓΔ tout entier; douc il mesurem le
+reste ΓΗ. Mais ΓΗ mesure ΖΘ; done Ε mesurera ΖΘ. Mais i] mesore ΖΑ tout
+
+entier; donc uu nombre mesurera l'unit& restante ΑΘ, ce qui est impos-
+sible (deff. 5. 7). Donc, aucun nombre ne mesurera les nombres ΑΒ, ΓΔ.
+Donc les nombres ΑΒ, ΓΔ sont premiers eutr'eux. Ce qu'il fallait de'montrer. “
+
+PROPOSITION 11.
+
+Deux nombres non premiers entr'eux <Stant donnesss, trouver leur plus
+
+grande commune mesure.
+

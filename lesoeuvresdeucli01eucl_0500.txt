@@ -1,0 +1,84 @@
+440 LE SEPTOEME LivRE DES ELEMENTS D'EUCLIDE.
+
+ἀλλήλους εἰσὶν , ἐλάχιστοί εἱσι τῶν τὶν αὗτὲν
+
+λές ον ἑχόντων αὑταῖς.
+
+ 
+
+ 
+
+ 
+
+ 
+
+A B
+Δ
+ε z
+(2,— K
+M
+
+Ei δὲ αὔ· εἰλήφθω τῶν A, Β, Γ τὲ μέγιστον
+nrm-3:- μὲτροι· ὃ Δ, καὶ ‹io-aium ἱ Δ ἷκε-κτον τῶν
+A, Β ‚ 1· μετρεῖ) vem-2722· μετα-’ὗες 'imm-av {st
+ἑκάστῳ τῶν Ε ‚ Z , H· na] ἶι-ιαῑτος ἆραι τᾶῗν E ‚
+Z ‚ H ’ἕκαστον τῶν A, Β, Γ μετρεῖ κατὰ τὰς ἔν
+τῷ Δ μηκάδας· εἰ Ε, Z, H ἆραι τοῦς Α, B, Γ
+ι’ΐιίιεις μῑτροὶίση· οἱ E, Z, H ἄρα τιῗς A, Β , Γ
+ἓν τῷ αὐτῷ λέςῳ εἱτί. ixi-,co δῖι ὅτι καὶ ἐλάχιστοι.
+Εἰ ’ὶεὲρ μή εἷο-[ι’ οἱ E, Z ‚ H ἐλαίχιστοι τῶι] τὸν
+αὐτὸν λόγον ἔχόντωνῖ τοῖς Α , B , l· ‚ ’ἔσονταί
+τινες3 τῶν Ε , Z , H ἐλάσσονες ἅριθμᾱ) ἒν τῷ
+αὐτῷ λόςῳ ὄντες τοῖς Α , Β , Γ. Εστωσαν οἵ Θ ,
+Κ, Λ· ἰσάκις ἄρα ὃ Θ τᾶν Α [uei-peina) ἑκάτερος
+τῶν Κ , Λ ἑκάτερον τῶν Β ‚ Γ. Omimg δὲ ὅ Θ τὶν
+A μετρεῗ, τοσαῦται μονάδες ἴστωσαν ἐν τῷ Μ·
+
+m} ἑκάτερος αἴρει τίῖἕν Κ, Λ ἑκάτερον τῶν Β , Γ
+
+se suut , minimi sunt eorum eamdem rationem
+
+habentium Cunl ipsi&
+
+Γ
+
+Η
+Λ
+
+ 
+
+Si autem non: sumatur ipsorum A, B, Γ
+maxima communis mensura Δ, et quoties Δ
+unumquemque corum A ‚B , Γ metitur , tot
+unitates sint iu unoquoque eorum E , Z ‚ H3 et
+unusquisque igitur E, Z ‚ H unumquemque co-
+rum A, B, Γ metitur per unitates quae in A;
+ipsi E ‚ Z ‚ H igitur ipsos A ‚ B, Γ (equaliter me-
+[uultui-3 ipzi E ‚ Z ‚ H igitur cum ipzis A ‚ B, Γ
+iu effidem ratione sunt. Dico utique et minimos.
+Si enim non sunt E, Z ‚ H minimi eorum cam-
+dem rationcm habentium cum ipsis A ‚ B , Γ ,
+erunt aliqui ipsis E , Z, H minores numeri in
+eudem ratione existentes cum ipsis A ‚ Β, Γ.
+Sint Θ , Κ , Λ ; aequaliter igitur Θ ipsum A me-
+titur ac uterque eurum Κ, Λ utrumque eorum
+B, Γ. Quoties amem Θ ipsum A metitur, tot
+
+unitates sint in M3 ct uterque igitur corum K, Λ
+
+premiers entr’eux ‚ ils seront les plus petits dc ceux qui ont la meme raison
+
+avec eux (23. 7).
+
+S’ils nc le sont pas , prenons la plus grande commune mesure Δ des nombres A ,
+
+B, Γ (5. 7 ) , et qu'il y ait (lans chacun des nombres E , Ζ, H autaut d'unites que Δ
+mesure (16 fois chacun des nombres A ‚ Β , r. Chacun des nombres Ε , Ζ , H mesurera
+chacun des nombres A, B , r parles unites qui sont dans Δ; donc les nomhres E , z , >
+H mesurent &galement les nombres A , Β , r; douc les nombres E, Ζ , H sont en meme
+raison que les nombres A , Β, s( 18. 7). Je dis de plus qu‘ils sont 165 plus petits.
+Car si E, Ζ, H uc sont pas les plus petits de ceux qui ont avec A, Β, 1· la meme
+raison ‚ il y aura quelques nombi·es plus petits que E, Z , H q‘ui auront la me me
+raison avec A , Β, r 3 quc ce soient Θ, Κ, A3 le nombre Θ mcsurera A autaut de fois que
+chacun des nombres x< ‚ A mesure chacun des nombres B, r(21. 7). Qu'il y ait dans
+

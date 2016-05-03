@@ -1,0 +1,42 @@
+PREFACE. xix
+
+moi. Je n'ai jamnis donne} de bon ἐι tirer que je ne me fusse assure au-
+paravant que tontes les corrections avaient ete faites. Par le moyen d'un
+errata, que je placerai ἐι 13 fin du dernier volume, on pourra corriger
+les fantes qu’une lecture tres-attentive que je ferai de l'ouvrage imprime
+xn'aut‘a fait decouvrir.
+
+M. Nicolopoulo‚ de Smyrne ‚ homme recommandable par ses mres talents
+et tres-habile eorrecteur, a bien voulu lire un grand nombre de mes elireuves.
+Μ. Patris , qui a cultive long-temps leslangues greeque‚ latine et franeaise7
+s'est donne des peines infinies pour que mon edition fit honneur aux presses
+sranqaises 5 en lisant les &preuves , il avait soin de comparer soigneusement
+la version latine et la version francaise au texte grec, et de me faire des
+observations marginales.
+
+Parmi les variantes de ce premier volume, il en est quelques-unes qui
+meritent surtout d'etre remarque'eS.
+
+Dans toutes les editions grecques et latines‚ les demandes 4, 5, 6, sont
+place'es au nombre des notions communes.
+
+La demonstration de la proposition 7 du livre ΙΗ 3 deux cas⁷ et cepen-
+dant un seul cas est demontre dans tous les manuscrits sans exception, et
+dans les editions de Bale et d’Oxford. Le second cas est celui οὺ le point Δ
+tombe dans le triangle ΑΒΓ, ou bien le point Γ dans le triangle ΑΒΔ. La de'-
+monstration du second cas exige qu'il soit de'montre anparavant que les
+cotes e'gaux d'un triangle isocele e'tant prolonges, les angles au-dessous de
+13 base sont e'gaux entre eux3 et c’est ce qu’a fait Euclide dans 13 proposi-
+tion 5, et ce qu'il n'a fait que pour la proposition 7, puisque, hors de 13 ,
+cette demonstration n’est plus ne'cessaire dans le reste des Elements d’Eu-
+clide3 d'oii il suit evidemmem‚ disent tous les commentateurs‚ que le
+texte grec de la demonstration dela proposition 7 est tronque'. Tous les
+commentateurs avaient tort. La figure e'tait incomplete dans tous les ma-
+nuscrits et dans toutes les editions. J’ai trace une seconde figure3 j'ai pro-
+longe les droites ΒΓ , ΒΔ, et 13 demonstration s'est trouvee complete, sans
+que j'eusse change un seul mot au texte grec.
+
+La demonstration de la proposition 24 du livre trois 3 trois cas. En ess'et,
+
+le point A etant sur le point Γ, et le pointB sur le point Δ, il saut de'montrer
+

@@ -1,0 +1,84 @@
+LE εΕΡΤιΕΜΕ LIVRE DES ELEMENTS D’EUCL1DE. 397
+
+σι’ναμφετέρου τοῦ A, Δ· ὃ ἄρα μέρος ἐστὶν ὅ
+A τοῦ ΒΓ, τὸ ati-rb μέρος ἐστὶ καὶ συναμφότε-
+ρος ὃ A, Δ συναμφοτέρου τοῦ ssr, ΕΖ. Οπερ ἔδει
+
+‹stilicu-
+
+n Ρο-τΑΣῙΣ ςΙ.
+
+Εάν ἆριθμὲς ἀριθμοῦ μέρη ἷῙ, καὶ ’ἔτερος ἐτί-
+ρευ τὰ αὐτοὶ μέρη ἶ· καὶ συναμφότερος συναμ-
+φιτέμυ τὰ αὑταὶ μέρη ἔσται, οἵπερ ὁ εἷς τοῧ
+ἔιίς.
+
+Αρεθμὲς γάρ ὅ ΑΒ ἀριθμοῦ τοῦ Γ μέρη gmon,
+ua) ’ἔτερος ὅ ΔΕ ἑτέρου τοῦ Ζ τοὶ αὐτοὶ μέρη
+ἅπέρ ἆ ΑΒ τοῦ Γ· >ximo ἶτι καὶ συναμςείτερος
+ὅ ΑΒ, ΔΕ συναμφοτέρου τοῦ Γ, Ζ ταὶ axi-ra? μέρη
+
+’στῖν, ἅπερ ὃ ΑΒ τσῦ Γ·
+
+>
+
+H
+
+ 
+
+1> »ἢ
+Φ
+
+ 
+
+Ν
+
+Ἐπεὶ >Sap οἳ μέρη ἔστὶν ὅ ΑΒ τοῦ 1· τιὶ αὐταὶ
+
+μέρη {5⁷2² καὶ ἱ ΔΕ τοῦ Ζ· ὅσα αἴρει ἐστὶν ἓν
+
+tiplex cst et uterquc simul ΒΓ , EZ utriusqne
+simul A ‚ Δ 3 qum igitur pars cst Α ipsius ΒΓ ‚
+eadem pars estet uterque simul Α , Δ utrius-
+
+que simul ΒΓ , EZ. Quod oportebat ostendere.
+
+PROPOSITIO VI.
+
+Si numerus numeri partes est, et aher alte-
+rius eaedem parles cst3 ct uterque simul utriusque
+
+simul eandem partes erit quco unus unius.
+
+Numerus enim AB numeri Γ partes sit, et
+alter ΔΕ alterius Z caedern partes quae ΑΒ ip-
+sius F3 dico et utrumque simul AB , ΔΕ utrius-
+
+que simul Γ , Ζ casdem partes esse, quae AB
+ipsius Γ.
+
+B
+
+ 
+
+ 
+
+Quoniam enim quoe partes est ΑΒ ipsius Γ’
+eaedem partes est et ΔΕ ipsius Z,- quot igitur
+
+nombres egaux aux nombres A , A,- donc ΒΓ est le meme multiple de A, que la
+somme de ΒΓ et de ΕΖ l’est de la somme de A et de 23 donc A est la meme partie
+
+de Er que la somme de A etde Δ, l'est de la somme de Er et de ΕΖ. Ce qu’il fallait
+demontrer.
+
+PROPOSIT'ION v1.
+
+Si un nombre est plusissurs parties d'un nombre, et si un autre nombre est
+les memes parties d'un autre nombre, leur somme sera les memes parties de
+leur somme, qu'un seul l'est d’un seul. .
+
+Quo le nombre AB soit plusieurs parties du nombre r, et qu'un autre nombre
+ΔΕ soit les memes parties d'un autre nombre Z, que ΑΒ l'est de r; je dis que la
+«omme de ΑΒ etde ΔΕ est les memes parties de la somme de ret de z que ΑΒ l’est de r.
+

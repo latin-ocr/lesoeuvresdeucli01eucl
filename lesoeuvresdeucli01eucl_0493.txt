@@ -1,0 +1,70 @@
+LE SEPTIEME LIVRE DEs limiMENTs D’EUCLIDE. 433
+
+Em) γάρ οἵ Α, Β πρῶτοι προς ἀλλήλους εἷο-ἶ ,
+καὶ ὅ Α ἑαυτὸν πολλαπλασιάσας ’τὸν Γ πεποίη-
+κεν· οἶ Γ, Β ἄρα πρῶτοι πρὸς ἆλλῆλους εἶσί.
+Erre} of'jv‘} οἱ Γ, Β πρῶτοι προς ἀλλήλους εἷο-ἲ,
+καὶ ὃ Β ἑαυτὸν πολλαπλασιάσας τὸν Δ πεποίη-
+κεν, οἱ Γ, Δ Εἶρα πρῶτοι ’,τρὶς ἀλλήλους εἷο-ι’.
+Πάλιν, ἐπεὶ οἱ Α , Β πρῶτοι πρός ἀλλήλους
+εἰσὶ , καὶ Ξ Β ἑαυτὸν πολλαπλασιάσας τᾶν Δ
+πεποίηκεν· οἷ Α, Δ ἄρα πρῶτοι πρὸς ἀλλήλους
+εἷο-ἰν· ἐπεὶ οἶν effla ἀριθμοὶ οἵ Α, Γ ’πρὶς ἓόο
+ἆριθμοός τους Β, Δ ἀμφότεροι πρὸς ἑκάτερον
+πρῶτοί εἷο-ι· καὶ ὃ ἐκ τῶν Α, Γ ἄρα ’γενόμενος
+πρές τᾶν ἐκ τῶν 1: ‚ Δ πρῶτός ἔστι. Ka} ’ἔστιν ὅ
+μὲνέκτῶιἈ, rhed& {n-nB'vB,AEz·0iE‚ Ζ
+ἄρα πρῶτοι πρές ἀλλήλους εἰσίν. Οπερ ἕδὲι δεῖξαι.
+
+ΠΡΟΤΑΣῙΣ λ’.
+
+Eeb Mo ἀριθμοὶ ’πρῶτοι προς ἀλλήλους οἷο-ι,
+καὶ συναμφότερος ’προς ἑκάτερον αὐτῶν πρῶτος
+ἔσται· καὶ ἐὰν συναμφότερος πρὸς ἕνα τινοὶ
+αὐτῶν πρῶτος ᾗ, καὶ οἱ ἐξ ἀρχῆς ἀριθμοὶ πρῶτοι
+πρὶς ἀλλήλους ἔσονται.
+
+Quoniam cuim A , Β primi inter sc suut ‚ ct
+A se ipsum muhiplicans ipsum Γ secit5 ipsi Γ, Β
+igitur primi iuter se sunt. Et quoniam Γ , Β
+primi iuter se sunt, ct B se ipsum multiplicans
+ipsum Δ Γοςίὲ, ipsi Γ , Δ igitur primi inter se
+sunl. Rursus ‚ quoniam A , Β primi inter se
+sunt ‚ ct B se ipsum multiplicans ipsum Δ sccit3
+ipsi A , Δ igitur primi inlcr se sunt5 ct quoniam
+duo numeri A , Γ ad duos numeros B , Δ uterque
+ad utrumque plimi sunt3 et ipse ex ipsis A ‚ Γ
+igitur faetus ad ipsum ex ipsis B, Δ primus est. Et
+est ipsc quidem ex A , Γ ipse E 7 ipse vcro ex Β ‚
+Δ ipse ΖΞ ipsi Σ, Ζ igitur primi iuter sc suut,
+Quod oportebat ostendere.
+
+PROPOSITIO XXX.
+
+Si duo numeri primi iuter se sunt, et uterque
+simul ad utrumque eorum primus erit5 et si
+uterque simul ad unum aliquem eorum primus
+est , et ipsi a principio numeri primi inter se
+
+erunt.
+
+Puisque les nombres A, Β sont premiers entr'eux, etque Α e'tant multiplie' par
+lui-meme fait r , xles nombres Γ, Β sont premiers entr'eux (27. 7 ) ; et puisque Γ, Β
+sont premiers entr'eux‚ et que Β multiplic} par lui-mome fait Δ, les nombres
+r, Δ sont premiers entr’eux. De plus ‚ puisque A ‚ Β sont premiers entr⁷eux , et
+que Β ωυΙῑίΡΙὶἑ par lui-mome a fait Δ, les nombres A, Δ sont premiers enm-’eum
+Mais les deux nombres Α, r sont premiers avec les deux nombres B, Δ, l⁷un
+et l'autre avec l'uu et l’auue· , donc le produit de A pal r est plemiel avec le
+pmduit de B par Δ (28. 7. .) Mais le produit de Α pu r est E, et le pxoduit
+
+de Β Par Δ est Z Donc les nombres E, z sont premicrs eutr eux. Ce qu ’il fallait
+dometur-‚el
+
+PROPOSITION XXX.
+
+Si deux nombres sont premiers emr'eux, leur somme sera un nombre premier
+avec chacun d'eux; et si leur somme cst un nombre premier avec chacun d’eux,
+les deux nombres proposeks serout premiers entr'eux.
+
+55
+

@@ -1,0 +1,71 @@
+LE SIXIEME LIVRE DES FLLEMENTS D‘EUCLIDE.
+
+Αλλα J), ἀντιπεπονθέτωσαν αἱ πλευραὶ τῶν
+ΑΒΓ, ΑΔΕ τριγώνων, καὶ ἔστω ὡς ἦ ΓΑ πρὲς τἰῗν
+ΑΔ οὕτως ἦ EA πρὸς τὴν ΑΒ· λε’·ὶω ’ότι ἴσον ἐστὶ
+τὸ ΑΒΓ τρίγωνον τῷ ΑΔΕ τριγώνῳ.
+
+Ἐπιζευχθείσης wip πάλιν τῆς ΒΔ , ἐπεί ἐστιν
+
+ὧς ἦ ΓΑ πρὸς τὴν ΑΔ οὕτως ᾖ EA πρὸς τὴν ΑΒ, ⁷
+
+ἀλλ’ ὧς μὲν ἦ ΓΑ πρὶς τήν ΑΔ οὕτως τὸ ΑΒΓ
+τρίγωνον ’πρός τὸ ΒΑΔ τρί’)ωνον, ὡς δῖ ἦ ΕΑ πρὸς
+τὴν ΑΒ οὕτως τὸ ΕΑΔ τρίγωνον πρὶς τὸ ΒΑΔ
+τρί’)ωνον· ὦς ἄρα τὸ ΑΒΓ τρίγωνον πρὶς τὲ ΒΑΔ
+οὕτως τὸ ΕΑΔ τρί’)ωνον πρὸς τὸ ΒΑΔ· ἑκάτερον
+ἄρα τῶν ΑΕΓ, ΑΔΕ πρὲις τὲ ΒΑΔ τὸν αὗτὸν ἔχει
+λόγον· ἴσον ἄρα ἐστὶ τὸ ΑΒΓ τρί’) cover τῷ ΕΑΔ
+
+τριγώνῳ. Τῶν αἴρει ἴτων, καὶ τοὶ ἔξῆς.
+
+Π Ρο-τΑΣΙΣ ις’.
+
+Εὲιν τέτταρες εὐθεῖαι ἀνάλογον ἷῖισι ‚ τὸ ὑπὸ
+τῶν ἄκρων περιεχόμενον ὄρθο) ώνιον ἴσον ἐστὶ τῷ
+
+ιῖπό τῶν μέσων περιεχεμένῳ ἔρθοᾳωνίῳ· κᾷν1
+
+323
+
+Sed utiquc reciproca sint latera ipsorum
+ΑΒΓ, ΑΔΕ triangulorum , ct sit ut ΓΑ ad ΑΔ ita
+ΕΑ ad AB3 dico aequale csse ABF triangulum
+ipsi ΑΔΕ triangulo.
+
+Junct& enim rursus ΒΔ, quoniam est ut ΓΑ
+ad ΑΔ ita ΕΑ nd ΑΒ, sod ut ΓΑ quidem ad ΑΔ
+ila ΑΒΓ triangulmn ad ΒΑΔ triangulum, ut ΕΑ
+vcro ad ΑΒ ita ΕΑΔ triangulum ad ΒΑΔ [sian-
+gulum5 ut igilur ΑΒΓ triangulum ad ΒΑΔ im
+ΕΑΔ triangulum ad ΒΑΔ) utrumque igimr ip-
+snrum ΑΒΓ, ΑΔΕ ad ΒΑΔ camdem habet ra—
+tionem3 :x‘quale igitur est ΑΒΓ triangulum ipsi
+
+ΕΑΔ triangulo. AEqualium igitur, cic.
+
+PROPOSITIO XVI.
+
+Si quatuor rcctoe proportionales sint, sub
+extremis contentum rcctangulum :equale cst
+
+ipsi sub mediis contento rcctangu105 et si sub
+
+Mais que les cotos des triangles ΑΒΓ, ΑΔΕ soient rociproquement propor-
+tionnels‚ c'est-h-dire que ΓΑ soit ὲι ΑΔ comme ΕΑ est 21 ΑΒ; je dis que le triaugle
+
+ΑΒΓ est &gal au triangle ΑΔΕ.
+
+Joignons encore ΒΔ. Puisque ΓΑ est ἐι ΑΔ commo ΕΑ cst 51 ΑΒ, que ΓΑ est
+ὲ ΑΔ comme le triangle ΑΒΓ cst au [riangle ΒΑΔ (1. 6), et que EA est ἐι ΑΒ
+comme le triangle ΕΑΔ est au triangle ΒΑΔ, le triangle ΑΒΓ est au triangle ΒΑΔ
+comme le triangle ΕΑΔ est au triangle ΒΑΔ (11. 5); donc chacun des triangles
+ΑΒΓ, ΑΔΕ a la meme raison avec le triangle ΒΑΔ; done le triangle ΑΒΓ est &gal
+
+au triangle ΕΑΔ (9. 5). Done, etc.
+
+PROPOSITION XVI.
+
+Si quatre droites sont proportiomoelles, le rectangle compris sous les
+deux extre-mes cst &gal au rectangle compris sous les moyennes; et si le
+

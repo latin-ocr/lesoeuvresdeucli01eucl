@@ -1,0 +1,47 @@
+LE SEPTIEME LIVRE DEs ELEMENTS D’EUCLlDE. 443
+
+Δ πεποίηκεν, ὃ δὲ Β τὶν Ζ πολλαπλασιάσας τδν vero B ipsum Z multiplicans ipsum Δ fecit5
+aequalis igitur est ipse ex A ‚ E ipsi cx Β , Ζ,- est
+
+Δ πεποίηκεν· ἴσος ἄρα ἐστὶν ὃ ἐκ τῶν Α, Ε τῷ
+igitur ut A ad Β ita Z ad Ε. Ipsi aulem A , B
+
+ἐκ τῶν Β ‚ Z· ’ἔστιν Εἶρα ὧς ὃ Α πρὸς τόν Β οὕτως
+ὅ z πρὲς τόν Ε, Οἱ δὲ Α a Β πρῶτοι, οἱ δὲ πρῶτοι primi, ipsi vero primi et minimi ‚ minimi autem
+καὶ ἐλάχιστοι ‚ οἱ δὲ ἐλάχιστοι μετρεῢσι τοὺς nmtiuutur :equaliter ipsos eamdem rationem ha-
+τὸν αξη-ὲν λόγον ἔχρη-κς icantg, 3 τε μείζων τὸν bentes ‚ et major majorem, et minor minorem5
+μ’,ίζοῃα καὶ ὁ {ſtrio-470¹( τὸς, {merom- ὅ Β ἄρα τὶν ipse B igitur ipsum E metitur, ut consequens
+E μετρεῒ, ὡς ἑπέμεῃος ἑπόμενον, Καὶ ἐπεὶ ὁ Α consequentem. Et quoniam A ipsos Β , E multi-
+τεὸςΒ, E πολλαπλασιάσας rodes, Δπεττοίκκεν· plicans ipsos Γ, Δ fecit3 cst igitur ut B ad E
+’ἔστιν σ’ἶρει ὦς ὅ Β πρὸς τὸν E οὕτως ὅ Γ πρὸς τὶν Δ· ita Γ ad Δ 3 metitur autem B ipsum E 5 metitur
+μετρεῖδὲ ὁ Β τὸν Ε· μετρεῖ ἄρα καὶ ὂ Γ τὸν Δ ‚ igitur et Γ ipsum Δ, major minorem ‚ quod est
+ὃ μείζων τὸν ἐλάσσονος , ἕπερ ἐστὶν ἀδύνατα-.- οόκ impossibile; uon igitur A , B metiuntur aliquem
+ἄρα, οἱ Α , Β μετριῖςουσίῖ 71:⁴oe ἐριθμὲμ ἐλάσσονα numerum minorem existentem ipso Γ, quoniam
+’ὄντα τοῢΓ, b'wv ω’ Α , Β πρῶτοι vpbg dmnssmvg A , Β primi inter se sunt; ipse Γ igitur minimus
+cuffinst- ὂ Γ ἄρα ἐλάχιστος ὢν ιῖττό τῶν Α, Β exiszens ab ipsis A, Β mensuratur.
+μετρεῖται.
+
+Μν) ἔστωσαν 25²1} οἱ Α , Β πρῶτοι ’,τρὶς ἀλ) 21'- Non Sint autefflA, Bpl‘imi iuter se ‚ et suman-
+λους, καὶ εἷλιῖφτωσαν ἐλάχιστοι {posu} 7239 τὲμ tur-minimi numeri Z, E eorum eamdem rationem
+αὐτόν λόγον ἔχόντων τοῖς Α ‚ Β, οἱ Z , E· ἴσος habentium quam ipsi A , 133 aequalis igitur est
+“ ἔρα, ἐστὶν ὃ ἐκ τῶν Α ‚ E τῷ ἔκ τῶν Β a Ζ, Καὶ ex A , Ε ipsi ex B , Z. Et A ipsum E multiplicans
+ὅ A τᾶν Ε nomon-svavia& τὸν Γ πωείτω· καὶ ipsum Γ saciat3 et B igitur ipsum Z multiplicans
+
+ὅ Β ἆρα. τᾶν Ζ πολλαπλασιάσας τὶγ Γ πεποίηκεν· ipsum Γ fecit. Ipsi A ‚ B igitur ipsum Γ metiun-
+
+duira Δ ; donc le produit de A par E est·‹{gal au produit de Β par z ‚- donc A est
+hvss comme Ζ est ὸ Ε ( ¹9· 7). Mais les nombrcs A ‚ Β sont prem-iers entr'eux ; les
+nombres premicrs sont les plus petits (23. 7 Ι , ct les plus petits mesurcnt &ga-
+lement ceux qui =ont une msime raison , Ie plus grand le plus grand ‚ et le plus
+petit le plus petit (21. 7>; donc le nombre B mesura E ‚ c’esz-h-dire le
+consdquent Ie consdquent. Mais Α multipliant B,E a fait r, Δ; douc Β est ὲι Ε
+comme Γ est ἐι Δ( 18. 7 ) ,· mais Β mesure E ,- donc r mesure Δ, Ie plus grand le plus
+petit, (ge qui est impossible3 donc les nombres Α, Β ne mesureront pas quelque
+nombre plus petit que r, pnisque A ‚ Β sont premicrs entr’cux ; donc Γ est le
+plus petit nombre qui soit mesum} par Α, Β.
+
+Que les nombres Α, Β ne soient pas premiers entr’eux. Prenons les plns petits
+nombres de ceux qui ont la meme raison avec Λ, B (55.7), etque ces nombres soient
+Z‚E; le produit de A par E sera (igal au produit de Β par z (19. 7). Que A multi-
+phantfi fasse 1·; donc Β multipliantzfera r,- donc A, Β mesureut r3 je dis que r cst le
+

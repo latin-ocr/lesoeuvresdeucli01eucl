@@ -1,0 +1,41 @@
+LE QUATROEME LIVRE DEs ELEMENTS D’EUCLmE. 229
+
+ΠΡοτΑΣΙΣ ιέ. PROPOSITIO xv.
+Εἰς τὶν &Bima κύκλον ἑξάγωνον ἰσόπλευρόν In dato circulo hexagonum aecsuilaterumque
+τε καὶ ἰσογώνιον ἐγγράψαι. et aequiangulum inscribere.
+Εστω ὂ δοθεὶς κύκλος ὁ ΑΒΓΔΕΖ· δεῖ δὴ εἷς Sit datus circulus ABFAEZ3 oporletigitur in
+τὸν ΑΒΓΔΕΖ κύκλον ἑξάγωνον icc'mwfo'v τε καὶ ΑΒΓΔΕΖ circulo hexagonum aequilaterumque
+ἰσογώνιον ἐγγράψαι. ct aequiangulum inscribere.
+
+ 
+
+Ηχθω τοῦ ΑΒΓΔΕΖ κύκλου διάμετρος ἦ ΑΔ, Ducatur ΑΒΓΔΕΖ circuli diameter ΑΔ , et
+
+καὶ εἰλήφθω τὸ κέντρον τσῦ κύκλου τὸ H, καὶ sumatur centrum circuli H , et centro qui-
+
+κέντρῳ μὲν τῷ Δ, &acnuam-rt st τῷ ΔΗ κύκλος dem Δ , intervallo vero ΔΗ circulus descri-
+
+2÷2p2¹36m ὁ ΕΗΓΘ, 22} ἐπιζευχθεῖσαι αἱ ΕΗ, batur ΕΗΓΘ, et junctae ΕΗ , ΓΗ producantur
+ΓΗ &izemo-av ἐπὶ τοὶ B, Z σημεῖα , καὶ ἐπε- ad Β , Ζ puncta, et jungantur ΑΒ , ΒΓ, ΓΔ ,
+ζεύχθως-χν αἱ ΑΒ, ΒΓ, TA, AB, EZ, ΖΑ· M'w ΔΕ, ΕΖ , ΖΑ 3 dico ΑΒΓΔΕΖ hexagonum acqui-
+’έτι τὸ ΑΒΓΔΕΖ ἑξάγωνον ἰσόπλευρόν τε ἐστὶ καὶ laterumque esse et aequiangulum.
+[⁵5:2051‘1w.
+
+Επεὶφοὶρ τὲ Ησκμεῖον κέντρωέστὶτοῢΑΒΓΔΕΖ Quoniam cuim H punctum centrum est
+
+κόκκυ, ἴση ξςτὶγ ἦ HE ⁷37 ΗΔ, nimy, ἐπεὶ τὲ ΑΒΓΔΕΖ circuli, aequah's est HEv ipsi ΗΔ. Rur-
+
+PROPOSITION XV.
+
+Inscrire dans un cerole donn& un hexagone cquilattfira] et &quianglffi
+
+Soit ΑΒΓΔΕΖ Ie cercle donne& il faut dans ce cercle inscrire un hexagone
+&qnnilatcral et ‹Squianglffi ἶ Ι
+
+Menons le diametro ΑΔ du cercle ΑΒΓΔΕΖ , prenons le centre H de ce cerole, '
+du ceutre Δ, et de l'intervulle ΔΗ dccrivons le cercle ΕΗΓΘ((1ἑΠ]. 5), joignons
+les droites ΕΗ, ΓΗ, prolongeons-les vers les points B, z, et joiguons AB, nr,
+ΓΔ, ΔΕ, ΕΖ, ΖΑ,· je dis que l'hexagoue ΑΒΓΔΕΖ est ‹Equilatdral et cquiangle.
+
+Puisque le point H est le centro du cerole ΑΒΓΔΕΖ, la droite HE est &gale ἐι
+

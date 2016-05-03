@@ -1,0 +1,67 @@
+LE QUATROEME mvn-E DES ELE'MENTS D'EUCLIDE. 219
+
+ΓΑΔ ἐστὶ διπλῆ. Τετμιῖσῧω δι’) ἑκατέρα τῶν ὖττό
+ΑΓΔ, ΓΔΑ δῖχα ιῖττὸ ἑκατέροις3 τῶν ΓΕ , ΔΒ εὗ-
+θειῶν, καὶ ἔπεζεόχθωπεν αἱ ΑΒ, ΒΓ, ΔΕ , ΕΑῙ.
+
+Επεὶ οἶν ἑκατέρα 'usn' ὑπὸ ΑΓΔ, ΓΔΑ γωνιῶν
+διπλασίαν {err} τῖς ὖετὸ ΓΑΔ, καὶ ’τετμημέναι
+εἰσ-1 δίχα ὑπὸ τῶν ΓΕ, ΔΒ εὐθειῶν· αἱ πέντε ἄρα
+’γωνίαι αἱ ὑπὸ ΔΑΓ, ΑΓΕ, ΕΓΔ, ΓΔΒ, ΒΔΑ
+ἴσαι ἀλλήλους εἰσιν. Αἵ δὲ ἴσαι γωνίαι ἐπὶ ἴσων
+περιφερειῶν &Cuncta-tv· αἱ πέντε ἔρα, περιφέρειαι
+αἱ ΑΒ, ssr, ΓΔ ‚ ΔΕ, ΕΑ ἴσαι ἀλλήλους εἰσίν.
+Ὑπὸ δῖ τὰς ἴσας περιφερείαις ἴσαι εὐθεῖαι nivra-
+τεῖιίυσιν· αἱ πέντε ἔρα εὐθεῖαι αἱ AB, ΒΓ, ΓΔ,
+ΔΕΑ, ΕΑ ἴσαι immam εἰσιν· ἷσὲττλευρσν ἄρα ἐστὶ
+τὸ ΑΒΓΔΕ πεντάγωνον. Λέςω δὴ ’ότι και) iffa->cai—
+γιον. Επεὶ γάρ ἦ ΑΒ περιφέρεια τῇ ΔΕ περιφερείᾳ
+ἐστὶν iffi, κοινῆ προσ-κείσθω ἦ ΒΓΔ· ‘⁶'an ἄρα zi
+ΑΒΓΔ περιφέρειαι ἕλῃ τῇ ΕΔΓΒ περιφερείᾳ ἐστὶν
+ἴσιιῦ. Καὶ βεξῑικεν ἒπέ μὲν τῆς ΑΒΓΔ περιφερείας
+’γωνία ἦ υττὲ ΑΕΔ, ἔτι-1 δῖ τῆς ΕΔΓΒ ’περιφερείας
+’γωνία ἦ tin& ΒΑΕ· καὶ [ι ὑπὸ ΒΑΕ ε”ριι γωνίαί*
+τῇ ὑπὸ ΑΕΔ fef-rh i‘cn‘q. ΔιαΧ τοὶ αὖτέ δι’] καὶ
+
+ἑκάστη τῶν tiz-12³ ΑΒΓ, ΒΓΔ, ΓΔΕ ἳωιιιῶν {nz-
+
+tur autem uterque ipsorum ΑΓΔ , ΓΔΑ bifariam
+ab ulmique ipsarum ΓΕ , ΔΒ rectarum , et juu-
+gantur AB , ΒΓ , ΔΕ ‚ ΕΑ.
+
+Quoniam igitur uterque ipsorum ΑΓΔ , ΓΔΑ
+angulorum duplus est ipsius rAA3 et' secti sunt
+bifariam 31 ΓΕ , ΔΒ recti55 quinque igitur anguli
+ΔΑΓ , ΑΓΕ , ΕΓΔ, ΓΔΒ , ΒΔΑ aequalcs inter sc
+sunt. Hiquales autem anguli aequalibus circumse-
+remiis insistunt3 quinque igitur circumferentiae
+AB, ΒΓ, ΓΔ1 ΔΕ, EA aequalcs inter se sunt. -ffiqua-
+les autem circumferentias :equales rectae subten-
+dunt3 quinque igitur rectae AB ‚ BF , ΓΔ ‚ ΔΕ, EA
+aequales inter ’56 sunt; aequilaterum igitur est
+ΑΒΓΔΕ pentagonuni.Dico et aequiangulum. Quo-
+niam cnim ΑΒ circumferentia ipsi ΔΕ circumse-
+rentiae cst aequalis, communis addatur ΒΓΔ; tota
+igitur ΑΒΓΔ circumferentia toti ΕΔΓΒ circumfe-
+rentiae cst aequalis. Et insistit ipsi quidem ΑΒΓΔ
+circumferentiae angulus ΑΕΔ, ipsi vero EAFB cir—
+cumferentiae angulus ΒΑΕ , ct ΒΑΕ igitur angulus
+ipsi ΑΕΔ est aequalis. Propter cadem utique et
+
+unusquisque ipsorum ΑΒΓ , ΒΓΔ , ΓΔΕ, angulo-
+
+ΓΔΑ en deux parties &gales' par les droitcs ΓΕ, ΔΒ (9. 1), et joiguo'ns ΑΒ, ΕΓ,
+ΔΕ, ΕΑ.
+
+Puisque chacun des angles ΑΓΔ, ΓΔΑ est double de I’augle ΓΑΔ , et que ces
+angles sont coupcs en deux parties (ῖς-(1165 par 165 droites ΓΕ, ΔΒ, 165 cinq
+angles ΔΑΓ, ΑΓΕ, Em,v ΓΔΒ, ΕΔΑ sont cgaux emr'eux. Mais 165 angles &gaux
+sont appuye'aes sur des arcs cgnux (26. Ξ) ; donc 165 cinq arcs ΑΒ, ΒΓ , ΓΔ , ΔΕ , ΕΑ
+sont &gaux entr'eux. Mais les arcs &gaux sont sumendus par (165 droites ‹53:1le
+(29. 5); donc 165 cinq dmitos ΑΒ , ΕΓ, ΓΔ ‚ ΔΕ , ΕΑ sont &gales e1m·’ellcs; donc
+le pentagone ΑΒΓΔΕ est cquiluu'erul. Jc dis aussi qu'il cst e'quiangle. Car puisque
+l‘arc ΑΒ est &gal ὲ l'arc ΔΕ, ajoutons l’arc commun ΒΓΔ ; l'arc entier ΑΒΓΔ sera
+(igal ἐι l’arc entier EAFB. Mais l'augle ΑΕΔ est 'appuyc sur l’arc ΑΒ ΓΔ , et l'anglc
+ΒΑΕ sur l'arc ΕΔΓΒ; donc l’augle ΒΑΕ est &gal a l’angle ΑΕΔ (27. 3). Par la mcme
+raison, chacun (165 angles ΑΒΓ, ΕΓΔ, ΓΔΕ est e'gal a chacun (165 angles ΒΑΕ ,
+

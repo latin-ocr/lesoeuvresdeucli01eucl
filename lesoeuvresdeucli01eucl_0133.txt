@@ -1,0 +1,63 @@
+LE DEUXIEME LIVRE DES EIAEMENTS D’EUCLIDE. 81
+
+ΠΡΟΤΑΣΙΣ μή.
+
+Edu τριγώνου τὸ ἀπὸ μιᾶς τῶν πλευρῶν terpi-
+γωνον ἴσον {wok ἀπὸ τῶν λοιπῶν τοῦ τριγώνου
+δύο πλευρῶν τετραγώνοις· ἡ περιεχομένη γωνία
+ὑπὸ τῶν λοιπῶν τοῦ τριγώνου δύο πλευρῶν ὀρθή
+ἔστι.
+
+Τριῷώνου γάρ τοῦ ΑΒΓ τὸ ἀπὸ μιᾶς τῆς ΒΓ
+πλευρᾶς τετράγωνον ἴσον ἐ’στω τοῖς α’πὸ τῶν BA,
+ΑΓ πλευρῶν τετραγώνοις· λέγω ὅτι ὀρθή ἐστιν ἡ
+ὑπὸ ΒΑΓ γωνία.
+
+Β
+
+Ἠχθω γὰρ ἀπὸ τοῦ Α σημείου τῇ ΑΓ εὐθει’ᾳ“
+πρὸς ὀρθαῖς ἡ ΑΔ, καὶ κείσθω τῇ BA ἴση ἦ ΑΔ,
+καὶ ἐπεζεύχθω ἡ ΔΓ.
+
+Καὶ ἐπεὶ ἴση ἐστὶν ἡ ΔΑ τῇ ΑΒ , ἴσον ἐστὶ καὶ
+τὸ α’πὸ τῆς ΔΑ τετράγωνον τῷ α’πὸ τῆς ΑΒ verpa·-
+γώνῳ. Κοινὸν προσκείσθω τὸ ἀπὸ τῆς ΑΓ τετρά-
+
+PROPOSITIO XLVIII.
+
+Si triangulicx uno laterum quadratum :equale
+est quadratis ex reliquis trianguli duobus late-
+
+ribus 3 contentus angulus a reliquis trianguli
+duobus lateribus rectus est.
+
+Tri-anguli enim ΑΒΓ ex uno ΒΓ latere quadra-
+ium aequale sit quadratis ex BA, ΛΓ lateribu55
+dico rectum esse ΒΑΓ angqum.
+
+Γ
+
+Ducatur enim ab Α puncto ipsi ΛΓ reclae ad
+rectos ΑΔ, et ponatur ipsi BA aequalis ΑΔ, etjun-
+gatur ΔΓ.
+
+Et quoniam aequalis est ΔΑ ipsi AB, aequaIe
+est etex ΔΑ quadratum Ipsi ex ΑΒ quadrato. Com-
+
+mune addatur ex ΑΓ quadratum; ipsa igitur ex
+
+PROPOSITION XLVIII.
+
+Si le quarre'e d'un des εόιὲε d'un triangle est e'gal aux quarrtsss des deux εόῑὲε
+restants de ce triangIe, l'angle compris par les deux cenes restams est droit.
+Que le quatre} du ςόῑέ Br du triangle ΑΒΓ soit e'gal aux quurrcfis des εόῑὲε
+
+ΒΑ, Ar3 je dis que l'angle ΑΒΓ est droit.
+
+Du point Α, conduisons la droite ΑΔ perpendiculaire h Ar (ι ι), saisons ΑΔ
+
+&gal ἐι ΒΑ , et joignons ΔΓ.
+
+Car puisque ΔΑ est c'egaI ὲ ΑΒ, le quarn} de ΔΑ est 6322} au quarrf': de ΑΒ.
+Ajoutons le quarrt'e commun de Ar 5 les quarre's des droitcs ΔΑ, ΑΓ seront e'gaux
+

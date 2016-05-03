@@ -1,0 +1,78 @@
+LE SEPTOEME L1VRE DES ELEMENTS D’EUCLIDE. 451
+
+ΠΡοτΑΣΙΣ μέ.
+
+Αριθμὶν εὗρεῗν , ὃς ἐλάχιστος ὢν ’ἔξει ταὶ 5⁸0-
+Θέντα μέρη.
+
+lio-rw τοὶ δοθέντα μέρη τὰ Α, Β, Γ· &TN
+ἀριθμὸν εὑρεῖν , ὃς ἐλάχιστος ὢν ἕξει τοὶ δοθέντα
+μέρη τοὶ A, B, ΓΙ.
+
+w>
+
+ 
+
+⁸-5
+
+ 
+
+sm
+
+Εστωσαν τοῖς A, Β , Γμέρεσιν ὁμώνυμοι ἀριθ-
+μοίἳ, οἱ Δ, E , Z, καὶ εἰλήφθω ἑ3 ὑπὸ τῶν Δ ,
+E , Z ἐλάχιστος μετρούμενος ἀριθμὸς ὅ Η· ὅΗ
+αἴροι’* ὁμώνυμα μέρη ἔχει τοῖς Δ , Ε, Ζ. Τοῖζ δὲ Δ ,
+E , Ζ ἑμώιύμοι μέρη ἐστὶ τοὶ A, B , Γ· ὂ H ἄρα
+ἔχει τοὶ A, B, Γ μέρη. Λέᾳω δὴ ’ότι ἐλάχιστος
+ὧν. Εἰ γοὶρ μή , ’ἕο-τω τὶς τοῦ Η ξλαίσσων ἀριθ-
+μές ὃς ’ἔξει ταὶ Α, B, Γ μέρη , ὅ Θῆ. Επεὶ ὅ Θ
+
+’ἔχει τοὶ A, B, Γμέρκ· ὃ Θ ἄρα, ὑπὸ ἓμωιιύμων
+
+PROPOSITIO XLI.
+
+Numerum invenire, qui minimus existens,
+habeat datas partes.
+
+Sint datae partes A , B, 1⁸3 oportet igitur nu-
+merum iuvenire, qui minimus existens habeat
+
+datas partes A ‚ Β, Γ.
+
+Δ
+
+E
+
+ 
+
+Z
+
+ 
+
+Sint ab‘ipsis A, B , Γ partibus denominati nu-
+meri, Δ , Ε, Ζ , et sumatur ab ipsis Δ , E , Z mi·-
+nimus mensuratus numerus H, ipse H igitur de-
+nominatas partes habet ab ipsis Δ , E , Z. Ab ipsis
+autem A ‚ E , Ζ denominata? partes sunt A , B , Γ.
+Ipse H igitur habet A ‚ B, Γ partes. Dico et mi-
+nimum esse. Si enim non , sit aliquis Θ ipso H
+minor numerus qui habeat A , B ‚ Γ partes. Quo-
+
+niam Θ habet A,B,r partes, ipsc Θ igitur a
+
+PROPOSITION XLI.
+
+Trouver un nombre , qui etant le plns petit, ait des parties donnees.
+Soient A , Β, 1· les parties donnees5 il faut trouver un nombre ‚ qui e'tant lc plus
+
+petit, ait les parties donnees A, Β , Γ.
+
+Que les nombres A, E, z soient denomme's par les parties A ‚ B ‚ r; prenons le
+plus petit nombre H qni est mesure par A, E, Ζ (58. 7); le nombre H aura
+des parties ddnommecs par A, E, Ζ (59. 7). Mais les parties denommees pff
+A, E, z sont A, B, r3 donc Hales parties A, B, r. Je dis que H est Ie plus petit.
+Car si cela n’est pas , soit un nombre Θ plns petit qne H qni ait les parties
+A, Β, Γ. Puisqne Θ a les parties A, Β, r, le nombre Θ scra mesure'· par les
+nombre-S denommes par les parties A , B , r (40. 7 ). Mais les nombres denommes
+

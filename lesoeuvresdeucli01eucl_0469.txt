@@ -1,0 +1,53 @@
+[Ε SEPTli‘iME LIVRE DES ELEMENTS D'EUCLIDE. [μη
+
+ΠῡῡτΑΣΙΣ ιγ’, , PROPOSITIO xxii.
+
+Eiv τέτταρες ἀριθμοὶ ἀνάλογον οἷό-ι’ καὶ ἐιάλ- Si quatuor numeri proportionales sunt5 et
+
+λάξ ἀνάλογον ἔσονται, alterne proportionales erunt.
+
+Sint quatuor numeri proportionales Α ‚ B,
+
+Εστωτοιν τέσσαρες ἀριθμοὶ ἀνάλογον οἵ Α, Β ‚
+Γ , Δ, ut Α ad Β ila Γ ad Δ,· (lico et alterne
+
+Γ, Δ , ὦς ὃ Α πρὸς τᾶν Β οὕτως ὅ Γ ’πρὸς τὸν Δ·
+λέγω ἔτι καὶ hami& ἀνάλογον ἔσονται, ὦς ὁ Α proportionales fore , ut Α ad Γ iza Β ad ΔΔ
+
+’,πρὸς τὶν Γ οὕτως ὃ Β πρὸς τὸν Δ.
+
+ 
+
+Δ-
+B
+ξ’
+Δ --
+Επεὶ 74? {arm ὡς ὅ Α πρὸς τὸν Β οὕτως ὁ Γ Quoniam enim estut Α adss na Γ ad A3 quel
+
+πρὶς τὸν Δ· ὃ ἄρα μέρος ἐστὶν ἑ Α τοῦ Β ἢ igitur pars est Α ipsiustel partes, eadem pars
+
+μέρη, τό αὐτὸ μὲρρς ἐστὶ καὶ ὃ Γ τοῦ Δ ὓ τοὶ estet Fipsius Δ veleaedemparteSJ alterne igitur
+- αὐτοὶ με’ρκ·μ ἑιόιλλοὶξ ἄρα ὃ μέρος ἐστὶν ὃ Α τοῦ quae pars est Α ipsius Γ vel partes , eadem pars
+
+1- ἢ μέρη , 70* αὐτὸ μέρος {ps} not) ὃ Β τοῦ Δ ἦ est el. B ipsius Δ vel eaedem partes5 est igitur ut
+τά αρτἀι μέρη. ἔστιν ἄρα, ὡς ὁ Α πρὸς τὸν r A ad Γ ita Β ad Δ. Quod oportebat osten*
+
+οὕτως ὅ Β πρὸς τὸν Δγ, Οπερ ἔδει ustificat„ desc·
+
+PROPOSITION XIII.
+
+Si quatre nombres sont proportionnels3 ils serent encore proportionnels par>
+
+permutation-
+
+Soient A, B, r, Δ quatre nombres propordomoels, et que A soit ii Β comme
+1· est ἐι Δ,· je dis qn’ils serout encore proportIOnnels, par pernintution, c'est-h-
+dire que A est ὲ 1· comme B est ὲ Δ.
+
+Car, pnisque A est ἰι Β comme r est h Δ; Α est la meme partie ou les
+memes parties de Β , que 1· l'est de Δ (dc'f. 20. 7); donc, par permutat-ion,
+Α est lu meme ou les memes parties de r, que Β l'est de Δ (9 ct 10. 7); donc
+’ Α est ὲι r comme Β est ὲι Δ (def. 20. 7). Ce qu'il fallait demontrer.
+
+52
+

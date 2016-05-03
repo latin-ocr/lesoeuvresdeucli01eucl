@@ -1,0 +1,84 @@
+268 LE CINQUIEME LIVRE DES ELEMENTS D'EUCLIDE.
+
+Επεῗ ’γεὶρ ἰσάκις ἐστὶ πολλαπλάσιον τὸ ΑΒ
+τοῦ Γ καὶ τὸ ΔΕ ’τοῦ Ζ· ἴσαι ἄρα ἐστὶν ἒν τῷ
+ΑΒ μεγέθη ἴσοι τῷ Γ, τοο-αὕτα, καὶ ἐν τῷ ΔΕ
+ἴσοι τῷ Ζ. Διῃρήσθω τὸ μὲν ΑΒ εἷς Tc} τῷ Γ
+[Lm->iem Tm, ταὶ ΑΗ, ΗΘ, ΘΒ, τι) δῖ ΔΕ εἷς
+’τοὶ τῷ Ζ ἴσοι, ταὶ ΔΚ, ΚΛ, ΛΕ· ’ἔσται δὴ ἴσον
+’τό πλῆθος τῶν ΑΗ, ΗΘ, ΘΒ ’τῷ πλήθει τῶν
+ΔΚ ‚ KA , AE. Ka.) {rte} Tm ἔστ) τά ΑΗ, ΗΘ, ΘΒ
+ἀλλήλοις ‚ ἔστι θὲ καὶ τοὶ ΔΚ , ΚΛ , ΛΕ ἴσοι ἐλλύ-
+
+ζι-
+
+H
+
+ 
+
+-,
+
+ 
+
+¹>
+
+K
+
+ 
+
+Ν
+
+ 
+
+λοις·ἕςτιν ἄρα ὡς τὸ ΑΗ πρὲις τὲ ΔΚ οὕτως τὸ ΗΘ
+πρὶς τὸ ΚΛ, καὶ τὸ ΘΒ πρός τὸ ΛΕ· ἕσταιίέρα καὶ
+ὡς ἓν τῶν ἦγουμένων πρὸς ἓν τῶν ἑπομένων, οὕτως
+ἅπαντα τοὶ ἡγεύμενοι πρὸς ἅπαντα τοὶ ἑπόμενοι·
+’ἐστιν ἄρα ὦς τὸ ΑΗ πρὸς ’τό ΔΚ οὕτως ’τό ΑΒ πρὶς
+τὸΔΕ. mv «1⁶2. τὸμὲν AH τῷ r, τὸ δὲ ΔΚ τῷ z·
+’ἔστιν ἄρα ὧς τὸ Γ πρὸς τὸ Ζ οὕτως τὸ ΑΒ πρὸς
+
+’τὸ ΔΕ. Ta ἄρα μέρη > noc) τοὶ ἑξῆς.
+
+ 
+
+ 
+
+Quoniam enim aeque cst multiplex AB {15³us
+Γ ac ΔΕ ipsius Z3 quot igitur sunt iu AB mag-
+nitudincs :rquales ipsi Γ , tot sunt ct in ΔΕ :e-
+quales ipsi Z. Dividamr AB quidem in magni-
+tudines ipsi Γ aequales ΑΗ, ΗΘ ‚ ΘΒ , ipsa vcro
+ΔΕ iu ΔΙ( , ΚΛ ‚ ΛΕ ipsi Z :equales 3 crit utique
+:vqualis multitudo ipsarum AH ‚ ΗΘ, ΘΒ mul-
+titudiui ipsarum ΔΚ , ΚΛ , ΛΕ, Et quoniam ερ-
+
+quales suut ΛΗ , ΗΘ, ΘΒ inter se 7 suut autem
+
+Θ Β
+
+ 
+
+ 
+
+ει ΔΚ , ΚΛ , ΛΕ aequales inter se 3 est igitur ut
+ΑΗ ad ΔΚ ita ΗΘ ad 1<A , et ΘΒ ad AE3 erit igi-
+tur et ut una antecedentium ad unam conse-
+quentium ‚ ita omnes antecedentes ad omnes
+consequentem est igitur ut AH ad AI< ita AB
+ad ΔΕ. AEqualis autem ΑΗ quidem ipsi Γ , ipsa
+vero ΔΚ ipsi Ζ) est igiturut Γ ad Z ita AB ad ΔΕ.
+Ergo partes , etc.
+
+Puisque ΑΒ est le mieme multiple de r que ΔΕ l'est de z ‚ ily a dans AB amant
+de grandeurs &gades 'a r qu'il y a dans ΔΕ de grandeurs ‹igales ὲ Ζ. Divisons ΑΒ
+en parties &gales ὲι Γ, et que ces parties soient ΑΗ, ΗΘ, OB,- divisons aussi ΔΕ
+eu parties &gales h z , et que ces parties soient ΔΚ, ΚΛ, ΛΕ. Le nombre des
+parties ΑΗ , ΗΘ , ΘΒ sera &gal au nombre des parties ΔΚ , ΚΛ , ΛΕ. Et puisque les
+parties ΑΗ, ὲῑΘ, ΘΒ sont e'gales entr'elles‚ etque les parties ΔΚ , lm, ΛΕ sont
+aussi e'gales (ξιιμ-’01165 , ΑΗ est ὲ ΔΚ comme ΗΘ est ὲι ΚΛ, et comme ΘΒ ρει 'a ΛΕ
+(7. 5>; donc un des antbcfidents sera ἐι un des consdquents comme la soznme
+des amecfflems est Ξι la somme des conse'quents (12. 5); (lonc AH est a ΔΚ
+comme An est ἐι ΔΕ. Mais ΑΗ est &gal ὶι r, et ΔΚ f'zgal 'a ῖς donc r esth z
+comme AB est ix ΔΕ. Douc , etc.
+

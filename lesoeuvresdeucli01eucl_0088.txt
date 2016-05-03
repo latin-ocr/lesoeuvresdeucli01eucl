@@ -1,0 +1,69 @@
+36 LE PRmnER LIVRE Dias ELEMENTS D’EUCLIDE.
+
+Διήχθω wip ὗ ΒΔ ἔπ’] τὸ E.
+
+Ka} ἐπεὶ παντὸς τριγώνου αἱ δύο πλευραὶ ’τῆς
+λοιπῆς μείζονές εἷο-ι ‚ ’τοῦ ΑΒΕ ἄρα τριγώνου αἱ
+δύο πλευραὶ ² αἱ AB, ΑΕ ’τῖίς BE μείζονές εἷο-ι·
+κοινὴ προπεῖσθω ἦ ΒΓ· αἱ ἔρα ΒΑ, ΑΓ τῶν BE,
+Er μείζονές εἷα-ι. Πάλιν, ἐπεὶ τοῦ ΓΕΔ τριῖώνου
+αἱ δύο πλευραὶ αἱ ΓΕ, ΕΔ ’τῆς ΓΔ μείζονές
+εἶσι ‚ κεινὴ §wormio-5102] ΔΕ· αἱ ΓΕ, ΕΒ a'z'foe τῶν
+ΓΔ , ΔΒ μείζονές εἰσιν. Aah& τῶν BE, Es μείζονες
+ἒιῖείχθκσαν αἱ ΒΑ ‚ ΑΓ· πολλῷ εἶρα αἱ ΒΑ, ΑΓ
+’τῶν ΒΔ, ΔΓ μείζονές εἷο-ι.
+
+Producatur enim ΒΔ ad Ε.
+
+Et quoniam omnis trianguli duo latera reliquo
+majora sunt, ΑΒΕ trianguli duo latera AB, ΛΕ
+ipso BE majora suut. Communis addatur EF3
+ergo ΒΑ , ΑΓ ipsis BE , Er majores sunt.
+Rursus , quoniam ΓΕΔ trianguli duo latera ΓΕ,
+ΕΔ ipso ΓΔ majora sunt3 communis addatur ΔΒ;
+crgo ΓΕ, ΕΒ ipsis ΓΔ, ΔΒ majores suut. Sed
+ipsis BE, ΕΓ majores ostensoe sunt ΒΑ, Ar,-
+
+multo igitur BA , ΛΓ ipsis ΒΔ , ΔΓ majores sunt.
+
+ 
+
+- Πάλιν, ἐπεὶ rrum-34 τριςώνου ἦ ἔκτός γωνίαι
+5< ἲ ἲ Χ 5—- l . (r Ἰ 3 . V·
+της ἐντος και aarum& paen-cm em» του ΓΔΕ
+ἄρα τριςώιόυ ἦ {mh- ‘flm'iz ἦ ὑπὸ ΒΔΓ μείζων
+ἐστὶ τῆς dw‘o ΓΕΔ. Au} ταῦτα τείιύνῖ καὶ τοῦ
+ABE τρηώνου 2‘1 ἒκτὲς Ἰωνία ἦ ὑπὸ rEB μείζων
+ἐστὶ τῆς ὑπὸ ΒΑΓ. AM& τὲἷς dnh ΓΕΒ μείζων
+ἐδείχθη ἦ ὗιτό ΒΔΓ· rtem& εἶρα ἦ ὑπὸ ΒΔΓ μεί-
+
+x Α. t x
+
+ζων ἔστι της οπο ΒΑΓ. 133³* ἄρα, καὶ τοὶ {5²75-
+
+Prolongeons ΒΔ vers E.
+
+Rursus. quoniam omnis trianguli exterior
+angulus in‘tcriore et opposito major cst, ΓΔΕ
+trianguli exterior angulus [BAF major cst ipso
+ΓΕΔ. Propter cadem ulique ct ABE trianguli
+exterior angulus ΓΕΒ major est ipso ΒΑΓῘ Sed
+ipso ΓΕΒ major ostensus esst BA1'3 inulto igitur
+
+ΒΔΓ major cst ipso ΒΑΓ. Si igitur, etc.
+
+Puisque deux entes d‘un triangle quelconque sont plus grands que le ςὸῑέ res-
+tant (20), les deux entes ΑΒ, ΑΕ du uiangle ABE sant plus grands que le οόιό ΒΕς
+donc si nous ajoutons la droite commune ΒΓ , les droites BA ‚ Ar sei-ontplus grandes
+que ΒΕ, ΕΓ. De plus, piusque les deux cotes rE ‚ ΕΔ du triangle ΓΕΑ sont plus
+grands que ΓΔ , si nous ajoutous la droite commune ΔΒ , les droues ΓΕ, ΕΒ seront
+plus grandes que ΓΔ, ΔΒ; mais 011 a demontre'· que les droites ΒΑ , ΑΓ sont plns
+grandes que ΒΕ , ΕΓ,· donc les droites BA, ΑΓ sont beaucoup plus grandes que ΒΔ, ΔΓ.
+
+De plus ‚ puisqn'un angle exterieur d'un triangle quelconqne est plus grand
+qu'un des angles interieurs et opposes (16), l’angle ΒΔΓ, qui est un angle exte-
+rieur du triangle ΔΕΓ, est plus grand que l’angle ΓΕΔ. Par la meme raison l’angle
+ΓΕΒ, qui cst un angle exter-leur du triangle ΑΒΕ , cst plus grand que l’anglc ΒΑΓ 3
+mais il a ete demontre que l'angle ΒΔΓ est plus grand que l’angle ΓΕΒ; douc l'angle
+ms est beaucoup plus grand que l’angle ΒΑΓ. Dono, etc.
+

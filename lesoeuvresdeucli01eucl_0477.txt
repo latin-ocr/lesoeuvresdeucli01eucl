@@ -1,0 +1,81 @@
+LE SEPTIEME LIVRE DES ELEMENTS D’EUCLIDE.
+
+Επεὶ ’μῖρ ὃ Α τὶν Γ πολλαπλασιάσας τὸν Δ
+πεποίηκε· καὶ ὃ Γ ἄρα τὸν Α πολλαπλασιάσας
+τᾶν Δ πεποίηκε. Δια τοὶ αὐτοὶ δὴ καὶ ὅ Γ τὸν
+Β πολλαπλασιάσας τὸν E πεποίηκεν· ἆριθμός
+‹Pi› ὅ Γ δῖἷο ἀριθμους τους Α , Β πολλαπλασιάσας
+τούς Δ, E πεποίηκεν· ἔστιν Εἶρα ὡς ὃ Α πρὶς
+
+τὸν Β οὕτως ὁ Δ προς τὸν E. Οπερ ἕδέι δὶῖξαι.
+ΠΡΟΤΑΣῙΣ ιθ’.
+
+Εαν τέσσαρες ἀριθμοὶ αιόίλογον εἶσιν ⁷ ὃ ἔκ
+τοῦ πρώτου καὶ τετάρτου ’γινόμενος ἀριθμὸς ἴσος
+ἔσται τῷ ἐκ τοῦ ‹sev-ripeta καὶ τρίτου γινομένῳ
+ἀριθμῷ· καὶ {niv ὂ ἐκ τοῦ πρώτου καὶ τεταρτουῑ
+γινόμενος ἀριθμὸς ἴσος ἶ τῷ ἐκ τοῦ estu-ripeta uxi
+τρίτου, οἱ τέσσαρες ἀριθμοὶ ἀγέλην {ccv-rm.
+
+Εστωσαν τέσσαρες ἀριθμοὶ ἀνάλογον οἱ Α , Β ,
+
+ω’>
+
+ 
+
+’Ἴ
+
+ 
+
+417
+
+Quoniam cuim Α ipsum Γ multiplicans ipsum
+Δ secit3 ct Γ igitur ipsum Α multiplicans ipsum
+Δ fecit. Propter eadem utique et Γ ipsum B
+multiplicans ipsum E secit3 numerus utique Γ
+duos numeros A, B multiplicans ipsos Δ, Ε sccii,-
+cst igitur ut A ad B ita Δ ad E. Quod oportebat
+
+ostendere.
+PROPOSITIO XIX.
+
+Si quatuor numeri proportionales sunt, ipse
+ex primo et quarto factus numerus aequalis erit
+ipsi cx secundo et tertio facto numero 3 et si
+ipse ex primo ct quarto sactus numerus aequa-
+lis cst ipsi ex secundo et tertio , quatuor numeri
+proportionales crunt.
+
+Sint quatuor numeri proportionales Α ,, Β ,
+
+t
+
+Γ
+
+Γ, Δ, ὦς ὂ Α πρὸς τᾶν Β οὕτως o‘ Γ πρὸς τὸν
+
+Δ, καὶ ὃ μὲν Α τὸν Δ πολλαπλασιάσας τὸν Ε
+
+ 
+
+r, Δ, ut Aac] nita r ad A,et Α quidem
+
+ipsum Δ multiplicans ipsum E saciat, ipsc vero Β
+
+Puisque A mulipliant Γ produit Δ , r multipliant A produit Δ ( 16. 7 >. Par la
+mosne raison Γ multipliant Β produit E; donc Γ multipliant lcs deux nombres
+A, Β produit les nombres Δ, E,- douc Α est ἓι B, comme Δ est ia E (17. 7). Ce
+
+qu’il i‘allait domontrer.
+
+PROPOSITION XIX.
+
+Si quatre nombres sont proportionnels , le nombre produit parle premier et par
+le quatriome sera &gul au nombre produit par Ie second ct par le troisiome5 et si
+
+le nombre produit par le premier et par le quatriome est &gal au nombre produit
+par le second ct par le troisiome , les quatre nombres seront proportionnels.
+Soient les quatre nombres proportionnels A,13, r, Δ; que A soit ὸ 13 comme r
+
+53
+

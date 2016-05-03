@@ -1,0 +1,71 @@
+'LE CiNQUn'zME L1VRE DEs E'LE'MENTS D’EUCLmE. 265
+
+ἰσάκις πολλαπλάσιοι, τῶν δὲ Δ, Ζ ἄλλοι οἳ
+ε”τυχεν ι’σοίκις πολλαπλάσιοι· καὶ τὸ μὲν τοῦ
+Γ πολλαπλάσιον τοῦ τοῦ Δ πολλαπλασίου
+ὖπερέχει7, τὸ δὲ ’τοῦ Ε πολλαπλάσιον ‘roff
+τοῦ Ζ πολλαπλασίου οὐχ ὑπερέχει. Εἰλήφθω,
+καὶ ἔστω τῶν μὲν Γ, E ι’σοὶκις πολλαπλάσιοι
+τοὶ H, Θ, ’τῶν δὲ Δ, Ζ ἐῖλλοι οἳ ἔτυχε-ν ica-:Z-
+κις πολλαπλάσιοι τοὶ Κ, Λ, ὥστε τὸ μὲν Η
+τοῦ Κ ὑπερέχειν, τὸ δὲ Θ τοῦ Λ μὴ ὑπερέχειν
+καὶ ὁσαπλάσιον μὲν ἔστι τὲ H τοῦ Γ, τοσαυτα-
+πλοίσιον ἔστω καὶ τὸ Μ τοῦ Α· ὁσαπλάσιον δὲ
+τὸ Κ τοῦ Δ, τοσαυταπλάσιον ἴστω καὶ τὸ N
+τοῦ Β.
+
+Καὶ ἐπεί ἔστιν ὧς τὸ Α πρές τὸ Β οὕτως τὲ Γ
+πρὸς τὸ Δ, καὶ εἴληπται τῶν μὲν A, Γ ι’σοίκις
+πολλαπλάσιοι τοὶ Μ, Η, τῶν 23⁸2. Β, Δοῖλλοι οἳ ἐ’τυ-
+χεν isaim πολλαπλάσια τοὶ Ν , Κ· εἰ οἵροι ὑπερ-
+έχει τὸ Μ τοῦ Ν, ιἰπερέχει καὶ τὸ Η τοῦ Κ·
+καὶ εἰ ἴσον, ἴσον· καὶ εἰ ἐ’λοισσον, ἔλασσον. Ὑπερ-
+έχει δὲ τὸ H τοῦ Κ, ὑπερέχει οἵροι καὶ τὸ Μ
+τοῦ N. Tb rs} Θ τοῦ A οὐχ ὑπερέχει· καὶ ἔστι
+τοὶ μὲν Μ, Θ τῶν Α, E ἰσάκις πολλαπλά-
+
+σιοι, τοὶ δὲ Ν, A τῶν Β, Ζ ἄλλοι οἳ ἔτυχεν
+
+quidem F ‚ E :nque multiplices, ipsarum vero
+Δ , Ζ alite utcunque :eque multiplices 3 et ip-
+sius quidem Γ multiplex ipsius Δ multiplicem
+superat, ipsius vero E multiplex ipsius Z multi-
+plicem non superat. sumantur , ct sint ipsarum
+quidem Γ , E aeque multiplices H ‚ Θ 3 ipsarum
+vcro A, Ζ atiae utcunque aeque multiplices K, Α,
+ita ut H quidem ipsam K superet, ipsa vero Θ
+ipsam A non supcret; et quam multiplex quidem
+cst H ipsius Γ , tam multiplex sit et M ipsius Α,
+quam vcro multiplex K ipsius Δ , tam multiplex
+
+sit et N ipsius Β.
+
+thuoniam est ut A ad B ita Γ ad A, et sumptae
+suut ipsarum quidem A, Γ teque multiplices M ,
+H ‚ ipsarum vcro Β , A aliae utcunque aeque
+multiplices N , K 3 si igitur superat M ipsam N ‚
+superat et H ipsam Κ, et si aequalis , aequalis 3
+ct si minor ‚ minor. Superat autem H ipsam K ,
+superat igitur et M ipsam N. Ipsa vero Θ ipsam
+A non supcrat5 et suut M , Θ quidem ipsarum
+A , E aequc multiplices , ipsa: vcro N ‚ A ipsarum
+
+B , Ζ aliae utcunque aequc multipliccsj crgo A
+
+multiples quelconques de ret de E, et parmi d’autres e'quimultiples quelconques
+de Δ et de z ‚ un multiple de Γ surpasse un multiple de Δ, et un multiple
+(le E ne surpasse pas un multiple de Z (def. 8. 5). Prenons ces equimul-
+tiples , et que H, Θ soient des equimultiples de r et de E, et que Κ, Λ
+soient d’ttuttcs equiinultiples quelconques de Δ et de Ζ, de muniere que H
+surpasse K, et que Θ ne surpasse pas Λ; et que M soit le meme multiple dc A
+que H l’est de r, et que N soit le meme multiple dc Β que i< l'est de Δ.
+
+Puisquc Α est 'a Β comme r esth Δ, etqu’on a pris des equimultiples quelconques
+M, H dc A et de Γ , et d’autres equimultiples quelcouques N , K de B et de A ‚· si
+M surpasse N, H surpasse t(; si M cst egal ἐι Ν , H cst &gal {1 Κ ; et si M est plus
+petit quc N, H est plus petit que Κ (def. (3. 5). Mais H surpasse Κ, donc M
+surpasse Ν. Mais e) ne surpasse pus Λ,· ct M, Θ sont des equimultiples quel-
+
+conqucs de Α et de 135 et N, Λ sont d'autrcs ‹iquimultiples quelconqucs de B
+34
+

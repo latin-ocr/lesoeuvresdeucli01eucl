@@ -1,0 +1,71 @@
+LE PREMIER LIVRE DES ELFLMENTS D'EUCLIDE. 31
+
+μείζων Εἶρα ἦ ὑπὸ ΑΓΔ τῆς ὑπὸ ΒΑΕ. Ομοὶως δῖ ,
+τῆς ΒΓ τετμημένης xixa, δειχθήσεται καὶ ἦ ὑπὸ
+ΒΓΗ ‚ τουτέστιν ἦ ὑπὸ ΑΓΔ ‚ μείζων καὶ τῆς
+
+ὑπὸ ΑΒΓ. Παντὸς ἄρα , καὶ ταὶ ἑξῆς.
+ΠΡΟΤΑΣΙΣ ιζ’.
+
+Hau-rh< τριγώνου αἱ δύο ’γωνίαι Mo ἒρθῶν
+ἐλάσσονές εἰσ-ι , πάντῃ μεταλαμξανόμεναι.
+
+lio-*rw τρίγωνον τὸ ΑΒΓ· >570³ ὅτι τοῦ ΑΒΓ
+τριγώνου αἱ δῖἰο γωνίαι δυο ὀρθῶν ἐλάσσονές εἰσ-ι,
+
+πάντῃ μεταλαμξανόμεναι.
+
+Εκξεζλιῖσθω ’γὰρ ἦ ΒΓ ἐπ’) τὸ Δ.
+
+Καὶ ἐπεὶ τριγώνου τοῦ ΑΒΓ ἐκτός ἔστι ᾳωνίιι
+ἦ dm} ΑΓΔ,μείζων ἔστι τῆςὲντὲς καὶ ἀπεναντίον,
+τῆς ὑπὸ ΑΒΓ. Κοινὴ προσκείσθω ἦ ὑπὸ ΑΓΒ· αἱ
+
+ἅμ ὑπὸ Am, ΑΓΒ τῶν ὑπὸ ΑΒΓ, ΒΓΑ μείζονές
+
+igitur ΛΓΔ ipso ΒΑΕ. Similiter autem, ΒΓ sect&
+bifariam, ostendetur et BFH ‚ hoc est ΛΓΔ,
+
+major et ipso ΑΒΓ. Omnis igitur, etc.
+
+PROPOSITIO XVII.
+
+Omnis trianguli duo auguli duobus rectis
+minores sunt, omnifariam sumpti.
+
+Sit triangulus ABF3 dico ΑΒΓ trianguli duos
+angulos duobus rectis minores esse, omnifariam
+sumptos.
+
+A
+‘x
+
+B
+
+Producatur enim ΒΓ ad Δ.
+Et quoniam trianguli ΑΒΓ exterior est an-
+
+gulus ΑΓΔ, major est interiore et opposito ΑΒΓ.
+Communis addatur AFR5 ergo ΑΓΔ ‚ ΑΓΒ ipsis
+
+ΑΒΓ, ΒΓΑ majores sunt. Sed ΑΓΔ, ΑΓΒ duobus
+
+que l'angle ΒΑΕ. Si on partage le cete ΒΓ en deux parties &gales ‚ on de'montrera
+semblablement que l'angle ΒΓΗ , οέεῑ-ὲ-ᾶίτε ΑΓΔ , est plus grand que l'angle ΑΒΓ.
+
+Donc , etc.
+
+PROPOSITION XVII.
+
+Deux angles d‘un triangle quelconque ‚ de quelque maniere qu’ils soient pris ‚
+
+sont moindres que deux droits.
+
+soit le triangle ABr3 je dis que deux angles du triangle ΑΒΓ, de quelque maniere
+qu'ils soient pris, sont moindres que deux droits.
+
+Prolongeons ΒΓ vers Δ (dem. 2 ).
+
+Puisque l'augle ΑΓΔ du triaugle ΑΒΓ est exterieur , il est plus grand que l'angle
+interient et oppose ΑΒΓ (16). Ajoutons l'angle commun ΑΓΒ, les angles ΑΓΔ, ΑΓΒ seront
+

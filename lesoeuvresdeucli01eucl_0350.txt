@@ -1,0 +1,63 @@
+292
+ΓΔ, δύο «5³2 τρί’)ώνων τῶν ΑΒΓ, ΑΓΔ, εἳ>ιιῐτττειι
+ἰσάκις πολλαπλάσια τῆς μὲν ΒΓ βάσεως και τοῦ
+ΑΒΓ ’τριγώνου ‚ ἥτε ΘΓ βάσις καὶ τὸ ΑΘΓ τρί-
+γωνον· τῆς δῖ ΓΔ βαίτεως καὶ τοῦ ΑΓΔ τριγώνου
+ἄλλα οἳ ’ἔτυχεν ἰσάκις πολλαπλάσια, ’ἥτε ΓΛ βεί-
+σις καὶ τὸ ΑΛΓ ’τρίᾳωων καὶ ὃὲιῗεικται ὅτι εἰ
+ὖπερξχει ἦ ΘΓ βάσις τῆς ΓΑ βάσεως, ὑπερέχει
+
+καὶ τὸ ΑΘΓ τρί’)ωιόν τοῦ ΑΛΓ τρι) ώιόυ· καὶ εἷ
+
+F
+
+ἴση, ἴσον· καὶ εἷ ’ἔλατ-νων, ἔλαττονὸ· ἔστιν ἄρα
+ὧς 2381· βάσις πρὸς τὴν ΓΔ βάσιν οὕτως τὸ ΑΒΓ
+τρί’)ωνον πρὲς τὸ ΑΓΔ τρί’)ωνον.
+
+Ka} ἐπεὶ τοῦ μὲν ΑΒΓ τριγώνου διπλάσιόν
+ἐστι τὸ ΕΓ παραλληλόγραμμον, τοῦ δῖ ΑΓΔ
+μ t t ³ x ι
+τριγωνου διπλάσιον scr-rt το ΖΓ παραλληλιᾳραμ-
+μον, τοὶ ὃὲ μέρη τοῖς ὡσαύτως πολλαπλασίοις
+
+τὸν αὐτὸν ’ἔχει λόγον· ἔστιν ἄρα ὡς τό ΑΒΓ
+
+LE SlxlEME LIVRE DES ELEMENTS D’EUCLIDE.
+
+duabus quidem basibus BF, ΓΔ ‚ dnobus vcro
+triangulis ΑΒΓ, ΑΓΔ , sumpta sunt arque mul-
+tiplicia basis quidem ΒΓ ct ΑΒΓ trianguli ‚
+ipsa ΘΓ basis et ΑΘΓ triangulum3 basis vcro ΓΔ
+ct trianguli ΑΓΔ alia utcunque aeque multiplicia ,
+ipfflque ΓΛ basis et ΑΛΓ triangulum. Et osten-
+sum est si superat ΘΓ basis ipsam ΓΛ basim, supe-
+
+rare et ΑΘΓ triangulum ipsum ΑΛΓ triangu1um3
+
+A Z
+
+ct si aequalis , aeqnale3 et si minor, min1155
+cst igitur ut ΒΓ basis ad ΓΔ hasim ita ΑΒΓ
+triangulum ad ΑΓΔ triangulum.
+
+Et quoniam trianguli ΑΒΓ quidem duplum cst
+EF parallelogrammum, ipsius vcro ΑΓΔ trianguli
+duplum cst ΖΓ parallelogrammum ‚ partes autem
+camdem habent rationem quam earum aeque
+
+multiplices3 cst igitur ut ΑΒΓ triangulum ad
+
+grandeurs ‚ les deux bases ΒΓ , ΓΑ; et les deux triangles ΑΕΓ, ΑΓΔ , on a pris
+des &quimultiples quelcouqnes (10 la base ΒΓ, et du triangle ΑΒΓ, samir, la base ΘΓ
+et le triangle ΑΘΓ ‚· on a pris aussi d'autres &quimultiples quelconqucs (10 la base
+m et du triangle ΑΓΔ, savoir, la base ΓΛ et lc triangle ΑΛΓ; et l'on a demontre'
+que si la base ΘΓ surpasse la base ΓΛ , 10 triangle ΑΘΓ surpasse 10 triangle ΑΛΓ;
+que si la base ΘΓ ‘est &gale ὸ la base ΓΑ, le triangle ΑΘΓ cst e'gal au triangle
+ΑΛΓ, et qne si la base ΘΓ est plus petite que la base ΓΛ ‚ le triangle ΑΘΓ est
+plns petit que 10 triangle ΑΛΓ,· donc la base ΒΓ est ὲι la base ΓΔ comme le
+tiiangle ΑΒΓ est au triangle Am (dc—t. 6. 5).
+
+Puisque le paralltilogrannnc Er est double du triangle ΑΒΓ , que le parallffi-
+logramme ΖΓ est double aussi du triangle Am (prop. 41. ι), et que les parties
+

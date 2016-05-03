@@ -1,0 +1,41 @@
+LE slxu'zME LIVRE DEs ELEMENTS D’EUCLJDE. 309
+
+δὲ καὶ ἦ πρὸς τῷ Α τξῖ πρὸς τῷ Δ ἴση, λοιπὴ Est aulem ct ipsc ad A ipsi ad Δ :equalis ‚ Γρ-
+ἰὶροι »3 πρὸς τῷ Γ λοιπῇ τῇ πρὸς τῷ Ζ ἴση ἐστίν· liquus igitur ad Γ reliquo ad z aequalis θεῖς
+
+ἰσογώνιον ἄρα ἷΠῖ τὸ ΑΒΓ τρηώνον τῷ ΔΕΖ τρι- aequiangulum igitur cst ΑΒΓ triangulum ipsi
+
+‚strym- Ἐάν ἄρα δύστρίῖωω, καὶ „m” {5²75- ΔΕΖ triangulo. Si igitur duo triangula, etc.
+npoTAzxz ἡ. PROPOSITIO vm.
+Ἐάν ἓν ὀρθογωνίῳ τριγώνῳ ἀπὸ τῆς ᾗρθῆς 71⁴³· Si in rectangulo triangulo ab recto angulo ad
+
+νίας {77} τήν βάσιν κάθετος ἀχθῇ. ,ng ,πρὸς τῇ basim perpendicularis ducatum ipsa ad per-
+καθέτῳ τρί’)ωνα ὅμοιαί ἐστὶ τῷ τε ὅλῳ καὶ ἆλλή- pelldiCUlarem triangula similia sunt ct toti et
+
+λως. inter se.
+
+Εστω τρίγωνον ὀρθογώνιον τὸ ΑΒΓ, ὀρθήν ἕχον Sit triangulum rectangulum ΑΒΓ , rectum
+τὴν ὑπὸ ΒΑΓ γωνίαν, καὶ ἤχθω ἁπό τοῦ Α ἐπὶ habens ΒΑΓ ungulum , ct ducatur ab A ad ΒΓ
+
+Α
+
+Δ Γ
+
+τήν ΒΓ κάθετος ἦ ΑΔ· λέγω ’ὅτι ὅμοιόν ἔστιν ἑκά· perpendicularis AAj dico simile esse utrum-
+τερον τῶν ΑΒΔ , ΑΔΓ τριγώνων ’ὅλῳ τῷ ΑΒΓ καὶ que ipsorum ΑΒΛῘ, ΑΔΓ triangulorum toti ΑΒΓ
+ἔτ, ἀλλήλοις, et insupera inter se.
+
+indgaux; donc ils sont dgaux. Mais l'angle en A est &gal ὲ l’angle en Δ; <lone
+l’angle restant en r est egal ὲ l'angle restant en Z (52. 1); donc les triangles
+Aur, ΔΕΖ sont equiangles. Donc, etc.
+
+PROPOSITION VIII.
+
+Si dans un triangle rectangle on mene une perpendiculaire de l'angle droit
+sm· la base, les triangles adjacents {a la perpendiculaire sont semblables au
+triangle entier et semblables entr’eux.
+
+Soit le triangle rectangle ΑΒΓ, ayant l'angledroitBAr3 du point Α menons sur la
+base ΒΓ la perpendiculaire ΑΔ; je dis que les triangles ΑΒΔ, ΑΔΓ sont semblables
+au triangle entier ΑΒΓ et semblables entr'eux.
+

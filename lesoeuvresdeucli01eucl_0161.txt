@@ -1,0 +1,69 @@
+LE DEUXIEME LIVRE DES ELEMENTS D’EUCLlDE.
+
+ΠΡΟΤΑΣ ΙΣ toi
+
+Tnv ‹9062va εὐθεῖαν τεμεῖν, ὥστε τὸ ὖπό
+τῦῖς ὅλης καὶ τοῦ ἑτέρου τῶν τμημάτων περιεχὸ-
+μενον ὃιθοῳώιιον ἴσον {sm} τῷ ἀπὸ τοῦ λοιποῦ
+τμήματος τετραᾳώινῳ.
+
+Εστω ἦ δοθεῖσαι εὐθεῖα ἦ ΑΒ· δεῖ 2³⁸2} τιῗν ΑΒ
+τεμεῖν, ὥστε τὶ dm} τῆς ἕλῃς καὶ τοῢ ἑτέρου
+τῶν τμημάτων περιεχᾶμενον ἑρθοῖώνιον ἴσον
+
+εἶναι τῷ dv& τοῦ λοιποῦ τμκμσίτος τετραγώνῳ.
+
+Δ K
+
+Αναᾳεγραῖφθω γὰρ ἀπὸ τῆς ΑΒ τετράγωνον τι)
+ΑΒΔΓ , καὶ τετμήσθω ἦ ΑΓ δίχα. κατὰ τό E
+σημεῖον, καὶ ὑπεζεόχθω ἦ BE , καὶ δίἦχθω n‘ ,ΓΑ
+ἐπὶ τὸ Ζ ‚ καὶ κείσθω τῇ ΒΕ ἴση ἦ EZ , not) ἀγα-
+
+·μᾳροίφθω οἱπό τῆς ΑΖ τετράγωνον τὸ ΖΘ, καὶ
+
+109
+
+PROPOSITIO XI.
+
+δ
+
+Datum rectam secare, ita ut sub ῑοῑὲι et altero
+segmentorum contentum rectangulum aequale
+
+sit ipsi ex reliquo segmento quadrato.
+
+Sit data recta AB? oportet igitur ipsam ΑΒ se -
+care , ita ut sub 10ίὲ et altero segmentorum con-
+tentum reclangulum :equale sit ipsi ex reliqum
+
+segmento quadrato,
+
+Z
+
+A
+
+Ε
+
+Γ
+
+Describatur enim ex AB quadratum ABAF7
+et secetur ΑΓ bifariam in E puncto ‚ et jungatur
+BE ‚ et producatur ΓΑ in Z, et ponatur ipsi BE,
+aequalis EZ, et describatur ex AZ quadratum
+ΖΘ, et producatur ΗΘ ad Κ) dico ΑΒ sectam
+
+PROPOSITION XI.
+
+Conper une droite donmsse ‚ demanihre que le rectangle compris sous la droize
+entiiffe et l’un des segments , soit <igal au quarrd du segment restant.
+
+Soit ΑΒ la droite donne}e; il faut couper ΑΒ de mani&re que le rectangle com-
+pris sous la droite emicare et l'un des segments ‚ soit &gal au quart& du segment
+
+TeSfflth.
+
+Avec la droite ΑΒ (Ιέετίνοηε le quarm& ΑΒΜ-(46. 1 ); coupons Ar en deux parties
+&gales au point E (10. 1) ; joignons ΒΕ , prolongeons ΓΑ vers 23 saisons ΕΖ e'gal Ξι BE
+(3. 1 >3 dc'crivons avec ΛΖ le qnarre': ΖΘ5 et prolongeons ΗΘ vers K3 je dis que la
+

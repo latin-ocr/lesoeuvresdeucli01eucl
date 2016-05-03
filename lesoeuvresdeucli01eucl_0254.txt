@@ -1,0 +1,43 @@
+202 LE QUATRIEME LIVRE DES ELEMENTS D’EUCLIDIJ.
+
+ΠΡΟΤΑΣΙΣ s‘. PROPOSITIO IV.
+Εἷς τὸ δοθὲν τρί’)ωιιον κύκλον ἑ).ι)ρ;ίψα,, In dato triangulo circulum inscribere.
+Εστω τὸ δοθὲν τρί’)ωνον τὸ ΑΒΓ· δ”εῖ δῆ εἷς τὶ Sit datum triangulum ΑΓΒ ; oportet igitur
+ΑΒΓ τρίγωνον κύκλον ἐγγράψαι, in ΑΒΓ triangulo circulum inscribere,
+Τετμήσθωσαν αἱ ὑπὸ ΑΒΓ, ΑΓΒ 'ymm'ou δίχα Sccentur ΑΒΓ , ΑΓΒ anguli bifariam ab ipsis
+ταῖς ΒΔ, ΓΔ εὐθείαις, καὶ συμζαλλέτωσ-αν ᾆλ- ΒΔ , ΓΔ rectis , et conveniant iuter se in Δ
+
+minam κατὰ τὸ Δ σημεῖον, καὶ ἤχθωσαν ἀπὸ puncto ‚ et ducantur a Δ ad ΑΒ , ΒΓ,ΓΑ rectas
+τοῦ Δ ἐπὶ ταὶς ΑΒ, ΒΓ, ΓΑ εὐθείας κάθετοι αἱ perpendiculares ΔΕ, ΔΖ, ΔΗ.
+ΔΕ, ΔΖ, ΔΗ.
+
+A:
+sp* H
+E JA' ,Ξ
+Β Ζ Γ
+Καὶ ἐπεὶ ἴση ἐστὶν ἦ bna ΑΒΔ ’γωνία τῇ ὑπὸ Et quoniam aequalis est ΑΒΔ angulus ipsi ΔΒΓ,
+
+Agri, ἐστὶ δὲ καὶ ἰρθγ) ἦ 5772, ΒΕΔ ἐρθῇτῇ ὑπὸ BZA est autem et rectus ΒΕΔ recto ΒΖΔ aequalisJ
+ἴση , δῖἱο AB} τρίγωνά ἔφη τὰ ΕΒΔ, ΖΒΔ , τὰς ‹sv'o duo igitur triangula sunt ΕΒΔ , ΖΒΔ, duos an-
+·ymigg 72732 θυοδ, γωνίακ ἴσας ἔχοντα, καὶ μίαν gulos duobus augulis :rquales habentia, et unum
+’πλευρὰν μιᾷ πλευρᾷ ἴσην, ’τὴν3 ὑποτείνουσαν lalus uni lateri aequalc , sustcndcus uuum aeqna-
+
+ὑπὸ μίαν τῶν ἴσων Ἰωνιῶν, κοινὴν αὐτῶν τὴν ΒΔ, lium angulorum, commune iis ipsum ΒΔ. Et
+
+PROPOSITION IV.
+
+Inscrire un cercle dans un triangle donn&-
+
+Soit ΑΒΓ le triangle donn& il faut dans le triangle ΑΒΓ inscrire un cercle.
+
+Partageons en deux parties &gales les angles ΑΒΓ, ΑΓΒ par les droites ΒΔ,
+
+ΓΔ; que ces droites se rencontreut au point Δ, et du point Δ menons aux
+droitcs AB, ΒΓ , ΓΑ les pei·pendicu]ai1·es ΔΕ, ΔΖ, ΔΗ (12. ι).
+
+Puisque l’angle ΑΒΔ est &gal hl'angle ΔΒΓ, et que l’angle droit ΒΕΔ est &gal
+
+h l'angle droit ΒΖΔ, les deux triangles ΕΒΔ , ΖΒΔ ont deux angles &gaux 31
+
+deux angles ‚ et un οόιό (igal ὲ un ςὸῑό , le c6te'e commun ΒΔ qui soutend un des
+

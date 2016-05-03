@@ -1,0 +1,40 @@
+162 LE TROISOEME LIVRE DEs ELJEMENTS D‘EUCLIDE.
+
+ΠΡΟΤΑΣῙΣ κβζ PROPOSITIO XXII.
+
+Τῶν ἓν τοῖς κύκλοις τετραπλεύρων αἱ ἅπειάν- ῙΠ circulis quadrilatcrornm oppositi anguli
+τίον ᾳωνίαι ‹flav-iv ἕρθαῖς ἴσαι εἰσίν, duobus rectis mqualcs sunt.
+
+Εστω κύκλος ὅ ΑΒΓΔ ‚ not} ἐν αὐτῷ τετραῖ- Sit circulus ΑΒΓΔ, et in ipso quad1·ilalcmm
+πλευρον ἔστω τὸ ΑΒΓΔ· λέῖω ξ’τ, αἱ ἀπεμαμτῇω» ‚xit ΑΒΓΔ, dico oppositos ipsius angulos duo-
+«5⁷05 ywvloet &clv ἒρθαῖς ἶσαι εἰσίν. 1¹1¹> ¹³:0¹ss {equ-‘sies esse·
+
+Ἐπεζεύχθωσαν αἱ ΑΓ, ΒΔ. Juxxgazntui· ΑΓ, ΒΔ.
+
+ 
+
+Em} οῧνῐπαντός τριγώνου αἶτρεῖξφωνίαιὲυα-ὶγ Quoniam igitur omnis trianguli tres anguli
+ὄρθαῖς scau εἰσὶν, uf] ΑΒΓ ἄρα τριῖ ώψουῖ αἱ τρεῖς duobus rectis :equales sunt, ipsius ΑΒΓ trianguli
+’γωνίαι αἱ ὖπὲ ΓΑΒ, ΑΒΓ, ΒΓΑ &civ Ξρθαῖς ἴσαι [res anguli ΓΑΒ, ΑΒΓ, ΒΓΑ duobus rectis aequales
+eia-lv. 1⁰71 δὲ zi μὲν ὑπὸ ΓΔΒ 755 ὑπὸ ΒΑΓ, ἐν ,ἀρ sunt. AEqualis autem quidem ΓΔΒ ipsi ΒΑΓ , cie-
+’τῷ αὐτῷ τμήματί εἶσι τῷ ΒΑΔΓ, ἦ δῖ ὑπό ΑΓΒ τῇ nim in codem sunt segmento ΒΑΔΓ , ct ΑΓΒ ipsi
+ὕπὸ ΑΔΒ, ἔν γάρ τῷ αὐτῷ τμήμκτί εἰσι τῷ ΑΔΓΒ· ΑΔΒ, etenim 1'11 codem sunt segmento ΑΔΓΒ.
+ἕλη ἄρα 'ri ὑπὸ ΑΔΓ ταῖς υ-τὲ ΕΑΓ, ΑΓΒ ἴση, {c-rl. Totus igilur ΑΔΓ ipsis ΒΑΓ, ΑΓΒ :vqualis cst.
+Rom} προσκείσθω ἡ ὐπὸ ΑΒΓ· αἱ ἄρα ὑπὸ ΑΒΓ, Communis addatur ΑΒΓ, ergo ΑΒΓ, ΒΑΓ, ΑΓΒ
+
+PROPOSITION XXII.
+
+Les angles oppose's des quadrilatbres inscrits dans des cercles sont c'gaux Ξι
+deux droiis.
+
+Soit le cere-le ΑΒΓΔ, et que le quadi-ilamre ΑΒΓΔ lui soit inscrit; je dis queles
+angles opposbs de ce quadrilatkre sont &gaux :a deux (lroits.
+
+Joignons ΑΓ, ΒΔ.
+
+Puisque les trois angles de tout triangle sont &gaux ὲ deux droiis (52. 1),
+les trois angles ΓΑΒ, ΑΒΓ, ΒΓΑ du triangle ΑΒΓ sont &gaux ἐι- deux droits. Mais
+l’angle ΓΔΒ cst &gal z« llmgle ΒΑΓ (21. 5)‚car ils sont dans le menne segment
+ΒΑΔΓς et l'angle ΑΓΒ cst e'gal Ξ] l'angle ΑΔΒ, car ils sont dans le minue segincnt
+AMB3 donc l'angle entier ΑΔΓ est &gal aux angles ΒΑΓ , ΑΓΒ. Ajoutous l'mxgle
+

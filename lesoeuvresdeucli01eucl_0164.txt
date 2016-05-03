@@ -1,0 +1,66 @@
+1 1 2
+
+Εστω &affixa->firmus τρί’)ωνον τὸ ΑΒΓ εἷμζῖλεῗαν
+{xor-5231( ὑπὸ ΒΑΓ γωιίανζ, καὶ ἤχθω ἀπὸ τοῦ B
+σημεῖὸν ἐπὶ ’τῆν ΓΑ ἑκζλκθεῖσιιν κάθετος ›3133-
+λέγω ‘ew Tr) ἇπό τῆς ΒΓ τετράᾳωνον μεῗζίν ἔστι
+τῶν ἀπὸ τῶν ΒΑ, ΑΓ τετραγώνωνῖ, τῷ δῖς ὑπὸ
+τῶν ΤΑ, ΑΔ περιεχομένῳ ιρθοᾳωνίῳ.
+
+Επεὶ γάρ εὐθεῖα ἧ ΓΔ τέτμηται ως ’ὲτυχξ ›ea-ri
+τὸ Α σημεῖον· τὸ ἄρα ἀπὸ τῆς ΓΔ ἴσον ἐστὶ τοῖς
+
+ἀπὸ τῶν ΓΑ, ΑΔ τετραῖώνοις καὶ τῷ δἺς ὑπὸ
+
+ 
+
+τῶν ΓΑ , ΑΔ περιεχομένῳ ι’ρθσᾳωνίῳ. Κοινόν
+προσ-κείσθω τὲ ἐπὶ ’τὶῖς ΔΒ· τά ἔρα ἀπὸ τῶν
+fg, ΔΒ ἴσα ἐστὶ τοῖς τε εἰπὲ vair ΓΑ, ΑΔ, ΔΒ
+τετρεῖἳώισοις καὶ τῷ δὶς {vrb τῶν ΓΑ, ΑΔ περιεχο-
+μένῳ ἒρΘΟΊωνίῳῖ. AM& τοῖς μὲν άπδ τῶν ΓΔ,
+ΔΒ i‘mv ἐστὶ τὲ ἐπεὶ τὶἷς ΓΒ, ὂρθὴ γᾶρ ἦ πρὸς τῷ*
+Δ ywra‘z· τοῖς δὲ ἀπὸ τῶν ΑΔ , ΔΒ i'covf τὸ εἶπε)
+τῖῖς ΑΒ· τὸ αἴρει ἀπὸ τ’ῗις ΓΒ τετράγωνονᾶ ’ἴσον
+
+ἐστὶ na< τε ἀπὸ τῶν ΓΑ , AB τετραγώνοις καὶτῷ
+
+LE DEUXIEME LIVRE DES EOEMENTS D'EUCLIDE.
+
+Sit obtusangulum triangulum ΑΒΓ obtusum
+habens ΒΑΓ angulum , 61, ducatur a B puncto ad
+ΓΑ productam perpendicularis BA3 dico ex
+ΒΓ quadratum majus esse quam ex BA, Ar
+quadrata, ipso bis sub ΓΑ, ΑΔ contento rec-
+
+langulo.
+
+Quoniam enim recta ΓΔ secatur utcunque in Α
+puncto3 ipsum igitur ex ΓΔ aequale est ipsis ex ΓΑ,
+
+ΑΔ quadratis, etipsi bis sub ΓΛ, ΑΔ contento
+
+rectnngulo. Commune addatur ipsum ex AB3
+ipsa igitur ex ΓΔ, ΔΒ aequalia sunt ipsis ex ΓΑ ,
+ΑΔ , ΔΒ quadratis e! ipsi bis sub ΓΑ , ΑΔ contento
+rectangulo. Sed ipsis quidem ex ΓΔ, ΔΒ aequale
+est ipsum ex ΓΒ , reclus enim est ad Δ augu1u55
+ipsis vero ex ΑΔ , ΔΒ aequale est ipsum ex AB5
+ergo ex ΓΒ quadratum aequale est ipsis ex ΓΑ , ΑΒ
+quadratis ct ipsi bis aalma. , ΑΔ contento rectan—
+
+gulo, quare ex ΓΒ quadratum quam ipsa ex ΓΑ, ΑΒ
+
+Soit 16 triangle obtusangle ΑΒΓ, ayant l'angle ΒΑΓ obtus; du point Β cou-
+
+duisons ΒΔ perpendiculaire sur ΓΑ pr010ngf'33 je dis que 16 quarre' de ΒΓ est plus
+grand que les quarffls des εόῐέε BA, ΑΓ, (16 deux fois 16 rectangle compris sous
+ΓΑ, ΑΔ.
+
+Car puisque la droite ΓΔ est couptfie d'une manliare quelconque au point Α , 16
+quarrc': de m est &gal aux quarffis des droites ΓΑ, ΑΔ, et ὲ deux sois le rectaugle
+compris sous ΓΑ , ΑΔζίμ 2). Ajoutons 16 quarn} commun de AB,- les quarrfis de
+m ‚ AB serout &gaux aux quarre'ffi des droites ΓΑ , ΑΔ, ΔΒ , et ὲ deux fois le rectaugle
+compris sous ΓΑ, ΑΔ. Mais 16 quar1·‹}derss esffigalaux quarre's des droites ΓΔ, ΔΒ (47.).,
+carl'angle en Δ est droit, et 16 quan-(3 de ΑΒ est &gal aux quarraeis des droites ΑΔ , ΔΒ;
+

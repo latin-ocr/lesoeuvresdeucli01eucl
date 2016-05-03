@@ -1,0 +1,74 @@
+LE SEPTIEME LIVRE DEs E'LFLMENTS D’EUCLIDE. 413
+
+τὶν EZ. 1ern δῖ ἦ BH μονὰς τῆ Α μονάδῧ, ὃ
+s} ΕΚ ἆριθμός τῷ Δ ἀριθμῷ· ἔστιν ἄρα, ὧς ἷι Α
+μοι’ἂς πρὶς τὶν Δ ἐριθμὲν οὕτως ὁ ΒΓ ’,τρὶς τὸν
+ΕΖ· ἰσάκις ἄρα ἶι Α μονάς τὸν Δ ἇριθμόν5 μετρεῖ
+καὶ ἒ ΒΓ τὶν ΙΞΖ. Οπερ ’ἔδει δεῖξαι.
+
+ΠΡΟΤΑΣΙΣ ις’.
+
+Εᾶν θέο ἀριθμεῖ ’πολλαπλασιώτες ἀλλήλαις
+nausti wrong· οἱ ςιενᾶμενοι ἒξ αὐτῶν ἴσοι ἀλλή-
+λοις ἔσονται.
+
+Εστωσαν δύο ἀριθμοὶ οἱ A, Β , πα) ὃ μὲν Α
+
+τὴν Β πολλαπλασιάσας τᾶν Ῑ“ ποιείτω, ἱ δὲ Β
+
+E
+
+ 
+
+A
+
+ 
+
+Β
+Γ
+Δ
+
+*riv Α πολλαπλασιάσας τὸν Δ ποιείτω* λέγω
+
+ὅτι ἶσος ἐστὶν ὃ Γ τῷ Δ.
+
+unitas ad EI< numerum ita BFrad EZ. AEqualis
+autem BH unitas ipsi Α unimti, ipse vero El<
+
+numerus ipsi Δ numero3 cst igitur ut A unitas
+
+’ ad Δ numerum ita ΒΓ ad E25 acqualiter igitur A
+
+unitas ipsum Δ numerum metitur ac Bripsum
+
+ΕΖ. Quod oportebat ostendere.
+
+PROPOSITIO XVI.
+
+Si duo numeri multiplicantes scsc facium
+
+aliquos5 facti cx ipsis aequales inter se eruut.
+
+Sint duo numeri A , E, et A* quidem ip·-
+
+sum Ε nuzhiplicans ipsum Γ faciat , ipse vcro Β
+
+ipsum A multiplicans ipsum Afaciat5 dico εε-
+
+qualem esse Γ ipsi A.
+
+ὲ ΕΖ. Mais l’unite' BH est rigale 22 l'unite A, et le nombre ΕΚ au nombre Δ;
+donc l'unite A est au nombre Δ comme ΒΓ est ὶι Ez; douc l'unite A mesure
+le nombre Δ autaut de fois que ΒΓ mesure ΕΖ (def. 20. 7). Ce qu’il fallaiz
+
+demontrer.
+
+PROPOSITION XVI.
+
+Si deux nombres se multipliant l'un et l'autre cn produisent d’autrcs3 les
+
+nombres produits sero'nt egaux entr’eux.
+
+soient les deux nombres A, B; que A multipliant B produise Γ, ct quc Β
+multipliant A produise Δ; je dis que Γ est &gal Ξι Δ.
+

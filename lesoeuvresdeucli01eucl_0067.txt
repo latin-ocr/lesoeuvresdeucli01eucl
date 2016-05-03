@@ -1,0 +1,57 @@
+LE PREMlER LIVRE DES &LEMENTS D'EUCLIDE. 15
+
+τείνουσιν, ἦ μὲν ὑπὸ ΑΓΖ ’τῇ ὑπὸ ΑΒΗ, ἦ δὲ.
+ὑπὸ ΑΖΓ τῇ ὑπὸ ΑΗΒ. Καὶ {m} ’όλκ ἡ ΑΖ ἕλῃ
+τῇ ΑΗ ἐστὶν ἴση, ὧν ἦ ΑΒ τ’,ἤ ΑΓ ἐστὶν ἴση,
+λοιπὴ ἔξαῆ ΒΖ λοιπῇ τῖἷ ΓΗ ἐστὶν ἴση. Εδέίχθκ
+δῖ καὶ ἦ ΖΓ T? ΗΒ ἴση· δύο ‹ff› αἱ ΒΖ, ΖΓ δυσὶ
+⁷ ταῖς ΓΗ, ΗΒ ἴσαι εἰσ-ιν, ἑκατέρα ἑκατέρᾳ, καὶ
+’γωνίαι ἦ ὑπὸ ΒΖΓ ςωνὶᾳ τῖῐ ὑπὸ ΓΗΒ ἴση, καὶ
+βάζω-ις αὐτῶν κοινὴ ὖ ΒΓ· καὶ τὸ ΒΖΓ ἄρα τρί-
+γωνον τῷ ΓΗΒ τριγώνῳ ἴσον ’ἔσται , καὶ αἱ λοιπαὶ
+’γωνίαι ταῖς λοιπαῖς γωνίαις ἴσαι ἔσονται,
+ἑκατέρα ἑκατέρᾳ, ὕφ’ ἃς αιῖ ἴσαι πλευραὶ ὁντινο-
+ulmum· Tem δέρει ἔστὶν ᾖ μὲν ὑπὸ ΖΒΓ τῇ ὑπὸ
+ΗΓΒ, ὑῶὲ ὑπὸ ΒΓΖ τῇ ὑπὸ ΓΒΗ. Επεὶ οῖ’]ιι ἕλη
+ᾖ ὑπὸ ΑΒΗ ’γωνία ὅλῃ τῆ ὑπὸ ΑΓΖ γωνίᾳ ἔδεὶχθη
+>t ‘i' t θ x a. e x ,s x
+mn, ων n 0710 ΓΒΗ τι] υπο ΒΓΖ mn , λοιπῇ
+ἄρα ᾖ ὑπὸ ΑΒΓ λοιπῇ τξῖ ὑπὸ ΑΓΒ {miv ἴων,
+καί εἶσι πατρὸς τῇβεὲσει τέ ΑΒΓ τριγώνου· ἒᾶείχθη
+δὲ καὶ ἦ ὑπὸ ΖΒΓ τῇ ὑπὸ ΗΓΒ ἴση ‚ καί εἰσιν ὁτι-ἶ)
+
+τὴν βάσιν· τῶν ἄρα ἰσοσκελῶν, καὶ τοὶ ἑξῆς.
+
+ipsi ΑΒΗ, ΑΖΓ vcro Ipsi AHB. Et quoniam tuta
+AZ toti ΑΗ cst :equalis , quarum ΑΒ ipsi ΑΓ
+cst aequalis, reliqua igitur ΒΖ reliquae ΓΗ cst
+aequalis. Ostensa cst autem et ΖΓ ipsi ΗΒ
+aequalis5 dum igitur BZ , ΖΓ duabus ΓΗ , ΗΒ
+{equales sunt , utraque utrique , ct angulus ΒΖΓ
+angulo ΓΗΒ aequalis ‚ et basis eornm communis
+31¹3 et ΒΖΓ igitur triangulum ΓΗΒ triangulo
+aequale erit ‚ et reliqui anguli reliquis angulis
+aequales erunt ‚ uterque utrique, quos aequalia
+latera subtendunt; :equalis igitur est quidem
+ΖΒΓ ipsi ΗΓΒ , ΒΓΖ vero ipsi ΓΒΗ. Quoniam
+igitur totus ABH angulus toti ΑΓΖ angulo os-
+tensus est aequalss, qnorum ΓΒΗ ipsi ΒΓΖ 'aequa-
+lis ς reliquus igiturABF reliquo ΑΓΒ est aequalis ,
+et est ad hasim ΑΒΓ trianguli3 ostensus cst
+autem et ΖΒΓ ipsi ΗΓΒ :equalis ,ι ct sunt sub
+
+basin13 isoscelium igitur triangulorum , etc.
+
+imaus< chacun ὲι chacun,· l’angle ΑΓΖ Ξ] l’angle ΑΒΗ, et l'angle ΑΖΓ ὲ l'angle ΑΗΒ.
+Ει puisque la droite muliere ΑΖ est &gale ὲι la droite οηῑίὲΓρ ΑΗ , et que AB est
+&gal ὲι ΑΓ, la restante ΒΖ sera &gale ὲι la restante ΓΗ (not. 5). Mais on a de'montre':
+que ΖΓ est ‹Sgal ὲι ΗΒ; donc les deux droites ΒΖ , ΖΓ sont &gales aux droites ΓΗ, ΗΒ,
+chaeune ὲ chacune; mais l’angle ΒΖΓ est &gal ὲ l'angle ΓΗΒ , et la droite ΒΓ cst
+leur base commune; donc le triangle ΒΖΓ sera e'gal au triangle ΓΗΒ , et les angles
+restans , soutendus par les εὸῑὲε ἐςεωΧ , seront &gaux chacun 'a chacun; donc
+l'angle ΖΒΓ est &gal h l'angle ΗΓΒ , et l'angle ΒΓΖ &gal ἒι l'angle ΓΒΗ. Nlais on a
+doessmontriz que l'angle entier ΑΒΗ est e'tgal ὲ l'angle entier ΑΓΖ , et l'angle rBH est
+e'gal {1 l’angle ΒΓΖ; donc l'angle restant ΑΒΓ est e'gal >a l'angle restant ΑΓΒ (not. 3 ) ‚
+et ces angles sont sur la base ‚· mais on a de'montrd aussi que l'angle ΖΒΓ est e'gal
+{a l'angle ΗΓΒ, et ces angles sont sous la base; donc , etc.
+

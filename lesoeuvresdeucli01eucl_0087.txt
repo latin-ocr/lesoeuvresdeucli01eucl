@@ -1,0 +1,70 @@
+LE PREMIER LIVRE DES E'LlfiMENTS D'EUCLIDE. 35
+
+bv& ΒΓΔ τῆς ὑπὸ ΑΔΓ· καὶ ἐπεὶ τρίγωνόν ἐστι
+τὸ ΔΓΒ, μείζονα ἕχον τὴν ὑπὸ ΒΓΔ ’γωνίαν τῆς
+ὑπὸ ΒΔΓ, ὑπὸ δῖ τὴν μείζονα Ἰωνίαν ἧμείζων
+πλευραὶ ὑποτείνει, ἦ ΔΒ ἄρα τιῗς ΒΓ ἔστι μείζων.
+Ιση δὲ ἦ ΔΑ τῇ ΑΓ ²· μείζονες ἄρα αἱ ΒΑ, ΑΓ
+τὶἷς ΒΓ. Ομοίως &⁸23 ὃείξομεν ’ότι καὶ αἶ μὲν ΑΒ ,
+ΒΓ τῆς ΓΑ μείζονές εἷο-ιν* αἶ A} ΒΓ, ΓΑ τῆς ΑΒ.
+
+nav-&5 ἄρα > noel τοὶ ἑξῆς,
+
+ΠΡΟΤΑΣΙΣ κέ.
+
+Ἐὰν τριγώνου ἓττῖ μιᾶς τῶν πλευρῶν ἀπὸ τῶν
+περάτων δύο εὐθεῖαι ἐντὸς συσταθῶσιν, αι’ συστα-
+θεῖσαι τῶν λοιπῶν τοῦ τριγώνου db'o πλευρῶν ἐλάσ-
+σονες μὲν ἔσονται, μείζονα δὲ ᾳωνὶαν περιέξουσι.
+
+Τρηώνου Ἰάρ τοῦ ΑΒΓ ἐπὶ μιᾶς τῶν πλευρῶν
+τῆς ΒΓ, ἀπὸ τῶν ’περάτων τῶν Β, Γ, δύο εὐθεῖαι
+ἔντος συνεστάτωσαν αἱ ΒΔ, ΔΓ· λέγω ’ότι αἱ ΒΔ,
+ΔΓ πλευραὶ ¹ τῶν λοιπῶν τοῦ τριγώνου :9150 πλευ-
+ρὶιῖν τῶν ΒΑ, ΑΓ ἐλάσσονες μέν εἷο-ι, μείζονα δῖ
+
+l Ι l f l m ί l
+'ywvzezv πῡριεχουσι, την vrso ΒΔΓ τῆς υπο ΒΑΓ.
+
+ulique est ΒΓΔ ipso AAF3 etquoniam triangulum
+est ΔΓΒ, majorem liabens ΒΓΔ angulumipso ΒΔΓ,
+majorem autem angulum majus latus subtendit5
+AB igitur ips& ΒΓ cst major3 {vqualis aulem ΔΛ
+ipsi AF5 majores igitur ΒΑ , ΑΓ ipsa] ΒΓ. Similiter
+autem ostendemus ct ipsas quiden] ABj, ΒΓ ips&
+ΓΑ majores 05503 ipsas vero ΒΓ , ΓΑ ips-[2 ΑΒ.
+
+Omnis igitur, etc.
+PROPOSITIO XXI.
+
+Si trianguli super uno laterum a terminis duze
+rcctae intus constituantur ‚ constructae reliquis
+trianguli duobus lateribus minores quidem
+erunt ‚ majorem vcro angulum continebunt.
+
+Trianguli cuim ΑΒΓ super nno laterum ΒΓ,
+a terminis B, Γ , duae rcctae intus constituantur
+ΒΔ, ΔΓ5 dico ΒΔ ‚ ΔΓ latera reliquis trianguli
+duobus lateribus BA , ΑΓ minora quidem
+esse , majorem vcro angulum continere ‚ ipsum
+ΒΔΓ ipso ΒΑΓ.
+
+est plus grand que l’angle ΑΔΓ (not. 9),· donc , puisque dans le triangle ΔΓΒ, l'angle
+Bm cst plus grand que l'angle ΒΔΓ , et qu’un plus grand εόῑέ soutend un plns grand
+angle (19), le ςὸιῤ ΔΒ est plus grand que le (ῖόῑὲ ΒΓ ; mais ΔΑ est eiga} ὲι Αι-; done
+les οόῑόε ΒΑ , ΑΓ sont plus grands que Er. Nous dtfimonnerons semblablement
+
+que les cntefis ΑΒ , ΒΓ sont plus grands que ΓΑ , et les εὸιόε ΕΓ, ΓΑ plns grands
+que ΑΒ. Dono, etc·
+
+PROPOSITION XXI.
+
+Si des extrtssmitns d’un des οόῑὸε d'un triangle‚ on construit intdrieurcmcnt deux
+droites, ces deux droitcs seront plus polites qne les deux οόῑόε restans (lu
+triangle , mais elles comprendront un plus grand angle.
+
+Des extinximus Β, Γ du (ῑόιό ΒΓ du triangle ΑΒΓ , construisons intendem-omem
+les deux droites ΒΔ , ΔΓ; je dis qne les droitcs BA , ΔΓ sont plus petites que
+les deux cnte's restants ΒΑ , ΑΓ, ct qu’ellcs eomprennent un angle ΒΑΓ plus
+grand quelangle ΒΑΓ.
+
